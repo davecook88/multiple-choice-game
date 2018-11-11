@@ -1,0 +1,6995 @@
+{
+  "abash": {
+    "infinitive": "abash",
+    "past": "abashed",
+    "pastPart": "abashed",
+    "present": "abashes",
+    "gerund": "abashing"
+  },
+  "abate": {
+    "infinitive": "abate",
+    "past": "abated",
+    "pastPart": "abated",
+    "present": "abates",
+    "gerund": "abating"
+  },
+  "abide": {
+    "infinitive": "abide",
+    "past": "abode",
+    "pastPart": "abode",
+    "present": "abides",
+    "gerund": "abiding"
+  },
+  "absorb": {
+    "infinitive": "absorb",
+    "past": "absorbed",
+    "pastPart": "absorbed",
+    "present": "absorbs",
+    "gerund": "absorbing"
+  },
+  "accept": {
+    "infinitive": "accept",
+    "past": "accepted",
+    "pastPart": "accepted",
+    "present": "accepts",
+    "gerund": "accepting"
+  },
+  "accompany": {
+    "infinitive": "accompany",
+    "past": "accompanied",
+    "pastPart": "accompanied",
+    "present": "accompanies",
+    "gerund": "accompanying"
+  },
+  "ache": {
+    "infinitive": "ache",
+    "past": "ached",
+    "pastPart": "ached",
+    "present": "aches",
+    "gerund": "aching"
+  },
+  "achieve": {
+    "infinitive": "achieve",
+    "past": "achieved",
+    "pastPart": "achieved",
+    "present": "achieves",
+    "gerund": "achieving"
+  },
+  "acquire": {
+    "infinitive": "acquire",
+    "past": "acquired",
+    "pastPart": "acquired",
+    "present": "acquires",
+    "gerund": "acquiring"
+  },
+  "act": {
+    "infinitive": "act",
+    "past": "acted",
+    "pastPart": "acted",
+    "present": "acts",
+    "gerund": "acting"
+  },
+  "add": {
+    "infinitive": "add",
+    "past": "added",
+    "pastPart": "added",
+    "present": "adds",
+    "gerund": "adding"
+  },
+  "address": {
+    "infinitive": "address",
+    "past": "addressed",
+    "pastPart": "addressed",
+    "present": "addresses",
+    "gerund": "addressing"
+  },
+  "adjust": {
+    "infinitive": "adjust",
+    "past": "adjusted",
+    "pastPart": "adjusted",
+    "present": "adjusts",
+    "gerund": "adjusting"
+  },
+  "admire": {
+    "infinitive": "admire",
+    "past": "admired",
+    "pastPart": "admired",
+    "present": "admires",
+    "gerund": "admiring"
+  },
+  "admit": {
+    "infinitive": "admit",
+    "past": "admitted",
+    "pastPart": "admitted",
+    "present": "admits",
+    "gerund": "admitting"
+  },
+  "advise": {
+    "infinitive": "advise",
+    "past": "advised",
+    "pastPart": "advised",
+    "present": "advises",
+    "gerund": "advising"
+  },
+  "afford": {
+    "infinitive": "afford",
+    "past": "afforded",
+    "pastPart": "afforded",
+    "present": "affords",
+    "gerund": "affording"
+  },
+  "agree": {
+    "infinitive": "agree",
+    "past": "agreed",
+    "pastPart": "agreed",
+    "present": "agrees",
+    "gerund": "agreeing"
+  },
+  "alight": {
+    "infinitive": "alight",
+    "past": "alit",
+    "pastPart": "alit",
+    "present": "alights",
+    "gerund": "alighting"
+  },
+  "allow": {
+    "infinitive": "allow",
+    "past": "allowed",
+    "pastPart": "allowed",
+    "present": "allows",
+    "gerund": "allowing"
+  },
+  "animate": {
+    "infinitive": "animate",
+    "past": "animated",
+    "pastPart": "animated",
+    "present": "animates",
+    "gerund": "animating"
+  },
+  "announce": {
+    "infinitive": "announce",
+    "past": "announced",
+    "pastPart": "announced",
+    "present": "announces",
+    "gerund": "announcing"
+  },
+  "answer": {
+    "infinitive": "answer",
+    "past": "answered",
+    "pastPart": "answered",
+    "present": "answers",
+    "gerund": "answering"
+  },
+  "apologize": {
+    "infinitive": "apologize",
+    "past": "apologized",
+    "pastPart": "apologized",
+    "present": "apologizes",
+    "gerund": "apologizing"
+  },
+  "appear": {
+    "infinitive": "appear",
+    "past": "appeared",
+    "pastPart": "appeared",
+    "present": "appears",
+    "gerund": "appearing"
+  },
+  "applaud": {
+    "infinitive": "applaud",
+    "past": "applauded",
+    "pastPart": "applauded",
+    "present": "applauds",
+    "gerund": "applauding"
+  },
+  "apply": {
+    "infinitive": "apply",
+    "past": "applied",
+    "pastPart": "applied",
+    "present": "applies",
+    "gerund": "applying"
+  },
+  "approach": {
+    "infinitive": "approach",
+    "past": "approached",
+    "pastPart": "approached",
+    "present": "approaches",
+    "gerund": "approaching"
+  },
+  "approve": {
+    "infinitive": "approve",
+    "past": "approved",
+    "pastPart": "approved",
+    "present": "approves",
+    "gerund": "approving"
+  },
+  "argue": {
+    "infinitive": "argue",
+    "past": "argued",
+    "pastPart": "argued",
+    "present": "argues",
+    "gerund": "arguing"
+  },
+  "arise": {
+    "infinitive": "arise",
+    "past": "arose",
+    "pastPart": "arisen",
+    "present": "arises",
+    "gerund": "arising"
+  },
+  "arrange": {
+    "infinitive": "arrange",
+    "past": "arranged",
+    "pastPart": "arranged",
+    "present": "arranges",
+    "gerund": "arranging"
+  },
+  "arrest": {
+    "infinitive": "arrest",
+    "past": "arrested",
+    "pastPart": "arrested",
+    "present": "arrests",
+    "gerund": "arresting"
+  },
+  "ask": {
+    "infinitive": "ask",
+    "past": "asked",
+    "pastPart": "asked",
+    "present": "asks",
+    "gerund": "asking"
+  },
+  "assert": {
+    "infinitive": "assert",
+    "past": "asserted",
+    "pastPart": "asserted",
+    "present": "asserts",
+    "gerund": "asserting"
+  },
+  "assort": {
+    "infinitive": "assort",
+    "past": "assorted",
+    "pastPart": "assorted",
+    "present": "assorts",
+    "gerund": "assorting"
+  },
+  "astonish": {
+    "infinitive": "astonish",
+    "past": "astonished",
+    "pastPart": "astonished",
+    "present": "astonishes",
+    "gerund": "astonishing"
+  },
+  "attack": {
+    "infinitive": "attack",
+    "past": "attacked",
+    "pastPart": "attacked",
+    "present": "attacks",
+    "gerund": "attacking"
+  },
+  "attend": {
+    "infinitive": "attend",
+    "past": "attended",
+    "pastPart": "attended",
+    "present": "attends",
+    "gerund": "attending"
+  },
+  "attract": {
+    "infinitive": "attract",
+    "past": "attracted",
+    "pastPart": "attracted",
+    "present": "attracts",
+    "gerund": "attracting"
+  },
+  "audit": {
+    "infinitive": "audit",
+    "past": "audited",
+    "pastPart": "audited",
+    "present": "audits",
+    "gerund": "auditing"
+  },
+  "avoid": {
+    "infinitive": "avoid",
+    "past": "avoided",
+    "pastPart": "avoided",
+    "present": "avoids",
+    "gerund": "avoiding"
+  },
+  "awake": {
+    "infinitive": "awake",
+    "past": "awoke",
+    "pastPart": "awoken",
+    "present": "awakes",
+    "gerund": "awaking"
+  },
+  "bang": {
+    "infinitive": "bang",
+    "past": "banged",
+    "pastPart": "banged",
+    "present": "bangs",
+    "gerund": "banging"
+  },
+  "banish": {
+    "infinitive": "banish",
+    "past": "banished",
+    "pastPart": "banished",
+    "present": "banishes",
+    "gerund": "banishing"
+  },
+  "bash": {
+    "infinitive": "bash",
+    "past": "bashed",
+    "pastPart": "bashed",
+    "present": "bashes",
+    "gerund": "bashing"
+  },
+  "bat": {
+    "infinitive": "bat",
+    "past": "batted",
+    "pastPart": "batted",
+    "present": "bats",
+    "gerund": "batting"
+  },
+  "be (am,are)": {
+    "infinitive": "be (am,are)",
+    "past": "was / were",
+    "pastPart": "been",
+    "present": "is",
+    "gerund": "being"
+  },
+  "bear": {
+    "infinitive": "bear",
+    "past": "bore",
+    "pastPart": "borne",
+    "present": "bears",
+    "gerund": "bearing"
+  },
+  "beat": {
+    "infinitive": "beat",
+    "past": "beat",
+    "pastPart": "beaten",
+    "present": "beats",
+    "gerund": "beating"
+  },
+  "beautify": {
+    "infinitive": "beautify",
+    "past": "beautified",
+    "pastPart": "beautified",
+    "present": "beautifies",
+    "gerund": "beautifying"
+  },
+  "become": {
+    "infinitive": "become",
+    "past": "became",
+    "pastPart": "become",
+    "present": "becomes",
+    "gerund": "becoming"
+  },
+  "befall": {
+    "infinitive": "befall",
+    "past": "befell",
+    "pastPart": "befallen",
+    "present": "befalls",
+    "gerund": "befalling"
+  },
+  "beg": {
+    "infinitive": "beg",
+    "past": "begged",
+    "pastPart": "begged",
+    "present": "begs",
+    "gerund": "begging"
+  },
+  "begin": {
+    "infinitive": "begin",
+    "past": "began",
+    "pastPart": "begun",
+    "present": "begins",
+    "gerund": "beginning"
+  },
+  "behave": {
+    "infinitive": "behave",
+    "past": "behaved",
+    "pastPart": "behaved",
+    "present": "behaves",
+    "gerund": "behaving"
+  },
+  "behold": {
+    "infinitive": "behold",
+    "past": "beheld",
+    "pastPart": "beheld",
+    "present": "beholds",
+    "gerund": "beholding"
+  },
+  "believe": {
+    "infinitive": "believe",
+    "past": "believed",
+    "pastPart": "believed",
+    "present": "believes",
+    "gerund": "believing"
+  },
+  "belong": {
+    "infinitive": "belong",
+    "past": "belonged",
+    "pastPart": "belonged",
+    "present": "belongs",
+    "gerund": "belonging"
+  },
+  "bend": {
+    "infinitive": "bend",
+    "past": "bent",
+    "pastPart": "bent",
+    "present": "bends",
+    "gerund": "bending"
+  },
+  "bereave": {
+    "infinitive": "bereave",
+    "past": "bereft",
+    "pastPart": "bereft",
+    "present": "bereaves",
+    "gerund": "bereaving"
+  },
+  "beseech": {
+    "infinitive": "beseech",
+    "past": "besought",
+    "pastPart": "besought",
+    "present": "beseeches",
+    "gerund": "beseeching"
+  },
+  "bet": {
+    "infinitive": "bet",
+    "past": "bet",
+    "pastPart": "bet",
+    "present": "bets",
+    "gerund": "betting"
+  },
+  "betray": {
+    "infinitive": "betray",
+    "past": "betrayed",
+    "pastPart": "betrayed",
+    "present": "betrays",
+    "gerund": "betraying"
+  },
+  "bid": {
+    "infinitive": "bid",
+    "past": "bid",
+    "pastPart": "bid",
+    "present": "bids",
+    "gerund": "bidding"
+  },
+  "bind": {
+    "infinitive": "bind",
+    "past": "bound",
+    "pastPart": "bound",
+    "present": "binds",
+    "gerund": "binding"
+  },
+  "bite": {
+    "infinitive": "bite",
+    "past": "bit",
+    "pastPart": "bitten",
+    "present": "bites",
+    "gerund": "biting"
+  },
+  "bleed": {
+    "infinitive": "bleed",
+    "past": "bled",
+    "pastPart": "bled",
+    "present": "bleeds",
+    "gerund": "bleeding"
+  },
+  "bless": {
+    "infinitive": "bless",
+    "past": "blessed",
+    "pastPart": "blessed",
+    "present": "blesses",
+    "gerund": "blessing"
+  },
+  "blossom": {
+    "infinitive": "blossom",
+    "past": "blossomed",
+    "pastPart": "blossomed",
+    "present": "blossoms",
+    "gerund": "blossoming"
+  },
+  "blow": {
+    "infinitive": "blow",
+    "past": "blew",
+    "pastPart": "blown",
+    "present": "blows",
+    "gerund": "blowing"
+  },
+  "blur": {
+    "infinitive": "blur",
+    "past": "blurred",
+    "pastPart": "blurred",
+    "present": "blurs",
+    "gerund": "blurring"
+  },
+  "blush": {
+    "infinitive": "blush",
+    "past": "blushed",
+    "pastPart": "blushed",
+    "present": "blushes",
+    "gerund": "blushing"
+  },
+  "board": {
+    "infinitive": "board",
+    "past": "boarded",
+    "pastPart": "boarded",
+    "present": "boards",
+    "gerund": "boarding"
+  },
+  "boast": {
+    "infinitive": "boast",
+    "past": "boasted",
+    "pastPart": "boasted",
+    "present": "boasts",
+    "gerund": "boasting"
+  },
+  "boil": {
+    "infinitive": "boil",
+    "past": "boiled",
+    "pastPart": "boiled",
+    "present": "boils",
+    "gerund": "boiling"
+  },
+  "bow": {
+    "infinitive": "bow",
+    "past": "bowed",
+    "pastPart": "bowed",
+    "present": "bows",
+    "gerund": "bowing"
+  },
+  "box": {
+    "infinitive": "box",
+    "past": "boxed",
+    "pastPart": "boxed",
+    "present": "boxes",
+    "gerund": "boxing"
+  },
+  "bray": {
+    "infinitive": "bray",
+    "past": "brayed",
+    "pastPart": "brayed",
+    "present": "brays",
+    "gerund": "braying"
+  },
+  "break": {
+    "infinitive": "break",
+    "past": "broke",
+    "pastPart": "broken",
+    "present": "breaks",
+    "gerund": "breaking"
+  },
+  "breathe": {
+    "infinitive": "breathe",
+    "past": "breathed",
+    "pastPart": "breathed",
+    "present": "breathes",
+    "gerund": "breathing"
+  },
+  "breed": {
+    "infinitive": "breed",
+    "past": "bred",
+    "pastPart": "bred",
+    "present": "breeds",
+    "gerund": "breeding"
+  },
+  "bring": {
+    "infinitive": "bring",
+    "past": "brought",
+    "pastPart": "brought",
+    "present": "brings",
+    "gerund": "bringing"
+  },
+  "broadcast": {
+    "infinitive": "broadcast",
+    "past": "broadcast",
+    "pastPart": "broadcast",
+    "present": "broadcasts",
+    "gerund": "broadcasting"
+  },
+  "brush": {
+    "infinitive": "brush",
+    "past": "brushed",
+    "pastPart": "brushed",
+    "present": "brushes",
+    "gerund": "brushing"
+  },
+  "build": {
+    "infinitive": "build",
+    "past": "built",
+    "pastPart": "built",
+    "present": "builds",
+    "gerund": "building"
+  },
+  "burn": {
+    "infinitive": "burn",
+    "past": "burnt",
+    "pastPart": "burnt",
+    "present": "burns",
+    "gerund": "burning"
+  },
+  "burst": {
+    "infinitive": "burst",
+    "past": "burst",
+    "pastPart": "burst",
+    "present": "bursts",
+    "gerund": "bursting"
+  },
+  "bury": {
+    "infinitive": "bury",
+    "past": "buried",
+    "pastPart": "buried",
+    "present": "buries",
+    "gerund": "burying"
+  },
+  "bust": {
+    "infinitive": "bust",
+    "past": "bust",
+    "pastPart": "bust",
+    "present": "busts",
+    "gerund": "busting"
+  },
+  "buy": {
+    "infinitive": "buy",
+    "past": "bought",
+    "pastPart": "bought",
+    "present": "buys",
+    "gerund": "buying"
+  },
+  "buzz": {
+    "infinitive": "buzz",
+    "past": "buzzed",
+    "pastPart": "buzzed",
+    "present": "buzzes",
+    "gerund": "buzzing"
+  },
+  "calculate": {
+    "infinitive": "calculate",
+    "past": "calculated",
+    "pastPart": "calculated",
+    "present": "calculates",
+    "gerund": "calculating"
+  },
+  "call": {
+    "infinitive": "call",
+    "past": "called",
+    "pastPart": "called",
+    "present": "calls",
+    "gerund": "calling"
+  },
+  "canvass": {
+    "infinitive": "canvass",
+    "past": "canvassed",
+    "pastPart": "canvassed",
+    "present": "canvasses",
+    "gerund": "canvassing"
+  },
+  "capture": {
+    "infinitive": "capture",
+    "past": "captured",
+    "pastPart": "captured",
+    "present": "captures",
+    "gerund": "capturing"
+  },
+  "caress": {
+    "infinitive": "caress",
+    "past": "caressed",
+    "pastPart": "caressed",
+    "present": "caresses",
+    "gerund": "caressing"
+  },
+  "carry": {
+    "infinitive": "carry",
+    "past": "carried",
+    "pastPart": "carried",
+    "present": "carries",
+    "gerund": "carrying"
+  },
+  "carve": {
+    "infinitive": "carve",
+    "past": "carved",
+    "pastPart": "carved",
+    "present": "carves",
+    "gerund": "carving"
+  },
+  "cash": {
+    "infinitive": "cash",
+    "past": "cashed",
+    "pastPart": "cashed",
+    "present": "cashes",
+    "gerund": "cashing"
+  },
+  "cast": {
+    "infinitive": "cast",
+    "past": "cast",
+    "pastPart": "cast",
+    "present": "casts",
+    "gerund": "casting"
+  },
+  "catch": {
+    "infinitive": "catch",
+    "past": "caught",
+    "pastPart": "caught",
+    "present": "catches",
+    "gerund": "catching"
+  },
+  "cause": {
+    "infinitive": "cause",
+    "past": "caused",
+    "pastPart": "caused",
+    "present": "causes",
+    "gerund": "causing"
+  },
+  "cease": {
+    "infinitive": "cease",
+    "past": "ceased",
+    "pastPart": "ceased",
+    "present": "ceases",
+    "gerund": "ceasing"
+  },
+  "celebrate": {
+    "infinitive": "celebrate",
+    "past": "celebrated",
+    "pastPart": "celebrated",
+    "present": "celebrates",
+    "gerund": "celebrating"
+  },
+  "challenge": {
+    "infinitive": "challenge",
+    "past": "challenged",
+    "pastPart": "challenged",
+    "present": "challenges",
+    "gerund": "challenging"
+  },
+  "change": {
+    "infinitive": "change",
+    "past": "changed",
+    "pastPart": "changed",
+    "present": "changes",
+    "gerund": "changing"
+  },
+  "charge": {
+    "infinitive": "charge",
+    "past": "charged",
+    "pastPart": "charged",
+    "present": "charges",
+    "gerund": "charging"
+  },
+  "chase": {
+    "infinitive": "chase",
+    "past": "chased",
+    "pastPart": "chased",
+    "present": "chases",
+    "gerund": "chasing"
+  },
+  "chat": {
+    "infinitive": "chat",
+    "past": "chatted",
+    "pastPart": "chatted",
+    "present": "chats",
+    "gerund": "chatting"
+  },
+  "check": {
+    "infinitive": "check",
+    "past": "checked",
+    "pastPart": "checked",
+    "present": "checks",
+    "gerund": "checking"
+  },
+  "cheer": {
+    "infinitive": "cheer",
+    "past": "cheered",
+    "pastPart": "cheered",
+    "present": "cheers",
+    "gerund": "cheering"
+  },
+  "chew": {
+    "infinitive": "chew",
+    "past": "chewed",
+    "pastPart": "chewed",
+    "present": "chews",
+    "gerund": "chewing"
+  },
+  "chide": {
+    "infinitive": "chide",
+    "past": "chid",
+    "pastPart": "chid/chidden",
+    "present": "chides",
+    "gerund": "chiding"
+  },
+  "chip": {
+    "infinitive": "chip",
+    "past": "chipped",
+    "pastPart": "chipped",
+    "present": "chips",
+    "gerund": "chipping"
+  },
+  "choke": {
+    "infinitive": "choke",
+    "past": "choked",
+    "pastPart": "choked",
+    "present": "chokes",
+    "gerund": "choking"
+  },
+  "choose": {
+    "infinitive": "choose",
+    "past": "chose",
+    "pastPart": "chosen",
+    "present": "chooses",
+    "gerund": "choosing"
+  },
+  "classify": {
+    "infinitive": "classify",
+    "past": "classified",
+    "pastPart": "classified",
+    "present": "classifies",
+    "gerund": "classifying"
+  },
+  "clean": {
+    "infinitive": "clean",
+    "past": "cleaned",
+    "pastPart": "cleaned",
+    "present": "cleans",
+    "gerund": "cleaning"
+  },
+  "cleave": {
+    "infinitive": "cleave",
+    "past": "clove/cleft",
+    "pastPart": "cloven/cleft",
+    "present": "cleaves",
+    "gerund": "cleaving"
+  },
+  "click": {
+    "infinitive": "click",
+    "past": "clicked",
+    "pastPart": "clicked",
+    "present": "clicks",
+    "gerund": "clicking"
+  },
+  "climb": {
+    "infinitive": "climb",
+    "past": "climbed",
+    "pastPart": "climbed",
+    "present": "climbs",
+    "gerund": "climbing"
+  },
+  "cling": {
+    "infinitive": "cling",
+    "past": "clung",
+    "pastPart": "clung",
+    "present": "clings",
+    "gerund": "clinging"
+  },
+  "close": {
+    "infinitive": "close",
+    "past": "closed",
+    "pastPart": "closed",
+    "present": "closes",
+    "gerund": "closing"
+  },
+  "clothe": {
+    "infinitive": "clothe",
+    "past": "clad",
+    "pastPart": "clad",
+    "present": "clothes",
+    "gerund": "clothing"
+  },
+  "clutch": {
+    "infinitive": "clutch",
+    "past": "clutched",
+    "pastPart": "clutched",
+    "present": "clutches",
+    "gerund": "clutching"
+  },
+  "collapse": {
+    "infinitive": "collapse",
+    "past": "collapsed",
+    "pastPart": "collapsed",
+    "present": "collapses",
+    "gerund": "collapsing"
+  },
+  "collect": {
+    "infinitive": "collect",
+    "past": "collected",
+    "pastPart": "collected",
+    "present": "collects",
+    "gerund": "collecting"
+  },
+  "colour": {
+    "infinitive": "colour",
+    "past": "coloured",
+    "pastPart": "coloured",
+    "present": "colours",
+    "gerund": "colouring"
+  },
+  "come": {
+    "infinitive": "come",
+    "past": "came",
+    "pastPart": "come",
+    "present": "comes",
+    "gerund": "coming"
+  },
+  "comment": {
+    "infinitive": "comment",
+    "past": "commented",
+    "pastPart": "commented",
+    "present": "comments",
+    "gerund": "commenting"
+  },
+  "compare": {
+    "infinitive": "compare",
+    "past": "compared",
+    "pastPart": "compared",
+    "present": "compares",
+    "gerund": "comparing"
+  },
+  "compel": {
+    "infinitive": "compel",
+    "past": "compelled",
+    "pastPart": "compelled",
+    "present": "compels",
+    "gerund": "compelling"
+  },
+  "compete": {
+    "infinitive": "compete",
+    "past": "competed",
+    "pastPart": "competed",
+    "present": "competes",
+    "gerund": "competing"
+  },
+  "complain": {
+    "infinitive": "complain",
+    "past": "complained",
+    "pastPart": "complained",
+    "present": "complains",
+    "gerund": "complaining"
+  },
+  "complete": {
+    "infinitive": "complete",
+    "past": "completed",
+    "pastPart": "completed",
+    "present": "completes",
+    "gerund": "completing"
+  },
+  "conclude": {
+    "infinitive": "conclude",
+    "past": "concluded",
+    "pastPart": "concluded",
+    "present": "concludes",
+    "gerund": "concluding"
+  },
+  "conduct": {
+    "infinitive": "conduct",
+    "past": "conducted",
+    "pastPart": "conducted",
+    "present": "conducts",
+    "gerund": "conducting"
+  },
+  "confess": {
+    "infinitive": "confess",
+    "past": "confessed",
+    "pastPart": "confessed",
+    "present": "confesses",
+    "gerund": "confessing"
+  },
+  "confine": {
+    "infinitive": "confine",
+    "past": "confined",
+    "pastPart": "confined",
+    "present": "confines",
+    "gerund": "confining"
+  },
+  "confiscate": {
+    "infinitive": "confiscate",
+    "past": "confiscated",
+    "pastPart": "confiscated",
+    "present": "confiscates",
+    "gerund": "confiscating"
+  },
+  "confuse": {
+    "infinitive": "confuse",
+    "past": "confused",
+    "pastPart": "confused",
+    "present": "confuses",
+    "gerund": "confusing"
+  },
+  "congratulate": {
+    "infinitive": "congratulate",
+    "past": "congratulated",
+    "pastPart": "congratulated",
+    "present": "congratulates",
+    "gerund": "congratulating"
+  },
+  "connect": {
+    "infinitive": "connect",
+    "past": "connected",
+    "pastPart": "connected",
+    "present": "connects",
+    "gerund": "connecting"
+  },
+  "connote": {
+    "infinitive": "connote",
+    "past": "connoted",
+    "pastPart": "connoted",
+    "present": "connotes",
+    "gerund": "connoting"
+  },
+  "conquer": {
+    "infinitive": "conquer",
+    "past": "conquered",
+    "pastPart": "conquered",
+    "present": "conquers",
+    "gerund": "conquering"
+  },
+  "consecrate": {
+    "infinitive": "consecrate",
+    "past": "consecrated",
+    "pastPart": "consecrated",
+    "present": "consecrates",
+    "gerund": "consecrating"
+  },
+  "consent": {
+    "infinitive": "consent",
+    "past": "consented",
+    "pastPart": "consented",
+    "present": "consents",
+    "gerund": "consenting"
+  },
+  "conserve": {
+    "infinitive": "conserve",
+    "past": "conserved",
+    "pastPart": "conserved",
+    "present": "conserves",
+    "gerund": "conserving"
+  },
+  "consider": {
+    "infinitive": "consider",
+    "past": "considered",
+    "pastPart": "considered",
+    "present": "considers",
+    "gerund": "considering"
+  },
+  "consign": {
+    "infinitive": "consign",
+    "past": "consigned",
+    "pastPart": "consigned",
+    "present": "consigns",
+    "gerund": "consigning"
+  },
+  "consist": {
+    "infinitive": "consist",
+    "past": "consisted",
+    "pastPart": "consisted",
+    "present": "consists",
+    "gerund": "consisting"
+  },
+  "console": {
+    "infinitive": "console",
+    "past": "consoled",
+    "pastPart": "consoled",
+    "present": "consoles",
+    "gerund": "consoling"
+  },
+  "consort": {
+    "infinitive": "consort",
+    "past": "consorted",
+    "pastPart": "consorted",
+    "present": "consorts",
+    "gerund": "consorting"
+  },
+  "conspire": {
+    "infinitive": "conspire",
+    "past": "conspired",
+    "pastPart": "conspired",
+    "present": "conspires",
+    "gerund": "conspiring"
+  },
+  "constitute": {
+    "infinitive": "constitute",
+    "past": "constituted",
+    "pastPart": "constituted",
+    "present": "constitutes",
+    "gerund": "constituting"
+  },
+  "constrain": {
+    "infinitive": "constrain",
+    "past": "constrained",
+    "pastPart": "constrained",
+    "present": "constrains",
+    "gerund": "constraining"
+  },
+  "construct": {
+    "infinitive": "construct",
+    "past": "constructed",
+    "pastPart": "constructed",
+    "present": "constructs",
+    "gerund": "constructing"
+  },
+  "construe": {
+    "infinitive": "construe",
+    "past": "construed",
+    "pastPart": "construed",
+    "present": "construes",
+    "gerund": "construing"
+  },
+  "consult": {
+    "infinitive": "consult",
+    "past": "consulted",
+    "pastPart": "consulted",
+    "present": "consults",
+    "gerund": "consulting"
+  },
+  "contain": {
+    "infinitive": "contain",
+    "past": "contained",
+    "pastPart": "contained",
+    "present": "contains",
+    "gerund": "containing"
+  },
+  "contemn": {
+    "infinitive": "contemn",
+    "past": "contemned",
+    "pastPart": "contemned",
+    "present": "contemns",
+    "gerund": "contemning"
+  },
+  "contend": {
+    "infinitive": "contend",
+    "past": "contended",
+    "pastPart": "contended",
+    "present": "contends",
+    "gerund": "contending"
+  },
+  "contest": {
+    "infinitive": "contest",
+    "past": "contested",
+    "pastPart": "contested",
+    "present": "contests",
+    "gerund": "contesting"
+  },
+  "continue": {
+    "infinitive": "continue",
+    "past": "continued",
+    "pastPart": "continued",
+    "present": "continues",
+    "gerund": "continuing"
+  },
+  "contract": {
+    "infinitive": "contract",
+    "past": "contracted",
+    "pastPart": "contracted",
+    "present": "contracts",
+    "gerund": "contracting"
+  },
+  "contradict": {
+    "infinitive": "contradict",
+    "past": "contradicted",
+    "pastPart": "contradicted",
+    "present": "contradicts",
+    "gerund": "contradicting"
+  },
+  "contrast": {
+    "infinitive": "contrast",
+    "past": "contrasted",
+    "pastPart": "contrasted",
+    "present": "contrasts",
+    "gerund": "contrasting"
+  },
+  "contribute": {
+    "infinitive": "contribute",
+    "past": "contributed",
+    "pastPart": "contributed",
+    "present": "contributes",
+    "gerund": "contributing"
+  },
+  "contrive": {
+    "infinitive": "contrive",
+    "past": "contrived",
+    "pastPart": "contrived",
+    "present": "contrives",
+    "gerund": "contriving"
+  },
+  "control": {
+    "infinitive": "control",
+    "past": "controlled",
+    "pastPart": "controlled",
+    "present": "controls",
+    "gerund": "controlling"
+  },
+  "convene": {
+    "infinitive": "convene",
+    "past": "convened",
+    "pastPart": "convened",
+    "present": "convenes",
+    "gerund": "convening"
+  },
+  "converge": {
+    "infinitive": "converge",
+    "past": "converged",
+    "pastPart": "converged",
+    "present": "converges",
+    "gerund": "converging"
+  },
+  "converse": {
+    "infinitive": "converse",
+    "past": "conversed",
+    "pastPart": "conversed",
+    "present": "converses",
+    "gerund": "conversing"
+  },
+  "convert": {
+    "infinitive": "convert",
+    "past": "converted",
+    "pastPart": "converted",
+    "present": "converts",
+    "gerund": "converting"
+  },
+  "convey": {
+    "infinitive": "convey",
+    "past": "conveyed",
+    "pastPart": "conveyed",
+    "present": "conveys",
+    "gerund": "conveying"
+  },
+  "convict": {
+    "infinitive": "convict",
+    "past": "convicted",
+    "pastPart": "convicted",
+    "present": "convicts",
+    "gerund": "convicting"
+  },
+  "convince": {
+    "infinitive": "convince",
+    "past": "convinced",
+    "pastPart": "convinced",
+    "present": "convinces",
+    "gerund": "convincing"
+  },
+  "coo": {
+    "infinitive": "coo",
+    "past": "cooed",
+    "pastPart": "cooed",
+    "present": "coos",
+    "gerund": "cooing"
+  },
+  "cook": {
+    "infinitive": "cook",
+    "past": "cooked",
+    "pastPart": "cooked",
+    "present": "cooks",
+    "gerund": "cooking"
+  },
+  "cool": {
+    "infinitive": "cool",
+    "past": "cooled",
+    "pastPart": "cooled",
+    "present": "cools",
+    "gerund": "cooling"
+  },
+  "co-operate": {
+    "infinitive": "co-operate",
+    "past": "co-operated",
+    "pastPart": "co-operated",
+    "present": "co-operates",
+    "gerund": "co-operating"
+  },
+  "cope": {
+    "infinitive": "cope",
+    "past": "coped",
+    "pastPart": "cope",
+    "present": "copes",
+    "gerund": "coping"
+  },
+  "copy": {
+    "infinitive": "copy",
+    "past": "copied",
+    "pastPart": "copied",
+    "present": "copies",
+    "gerund": "copying"
+  },
+  "correct": {
+    "infinitive": "correct",
+    "past": "corrected",
+    "pastPart": "corrected",
+    "present": "corrects",
+    "gerund": "correcting"
+  },
+  "correspond": {
+    "infinitive": "correspond",
+    "past": "corresponded",
+    "pastPart": "corresponded",
+    "present": "corresponds",
+    "gerund": "corresponding"
+  },
+  "corrode": {
+    "infinitive": "corrode",
+    "past": "corroded",
+    "pastPart": "corroded",
+    "present": "corrodes",
+    "gerund": "corroding"
+  },
+  "corrupt": {
+    "infinitive": "corrupt",
+    "past": "corrupted",
+    "pastPart": "corrupted",
+    "present": "corrupts",
+    "gerund": "corrupting"
+  },
+  "cost": {
+    "infinitive": "cost",
+    "past": "cost",
+    "pastPart": "cost",
+    "present": "costs",
+    "gerund": "costing"
+  },
+  "cough": {
+    "infinitive": "cough",
+    "past": "coughed",
+    "pastPart": "coughed",
+    "present": "coughs",
+    "gerund": "coughing"
+  },
+  "counsel": {
+    "infinitive": "counsel",
+    "past": "counselled",
+    "pastPart": "counselled",
+    "present": "counsels",
+    "gerund": "counselling"
+  },
+  "count": {
+    "infinitive": "count",
+    "past": "counted",
+    "pastPart": "counted",
+    "present": "counts",
+    "gerund": "counting"
+  },
+  "course": {
+    "infinitive": "course",
+    "past": "coursed",
+    "pastPart": "coursed",
+    "present": "courses",
+    "gerund": "coursing"
+  },
+  "cover": {
+    "infinitive": "cover",
+    "past": "covered",
+    "pastPart": "covered",
+    "present": "covers",
+    "gerund": "covering"
+  },
+  "cower": {
+    "infinitive": "cower",
+    "past": "cowered",
+    "pastPart": "cowered",
+    "present": "cowers",
+    "gerund": "cowering"
+  },
+  "crack": {
+    "infinitive": "crack",
+    "past": "cracked",
+    "pastPart": "cracked",
+    "present": "cracks",
+    "gerund": "cracking"
+  },
+  "crackle": {
+    "infinitive": "crackle",
+    "past": "crackled",
+    "pastPart": "crackled",
+    "present": "crackles",
+    "gerund": "crackling"
+  },
+  "crash": {
+    "infinitive": "crash",
+    "past": "crashed",
+    "pastPart": "crashed",
+    "present": "crashes",
+    "gerund": "crashing"
+  },
+  "crave": {
+    "infinitive": "crave",
+    "past": "craved",
+    "pastPart": "craved",
+    "present": "craves",
+    "gerund": "craving"
+  },
+  "create": {
+    "infinitive": "create",
+    "past": "created",
+    "pastPart": "created",
+    "present": "creates",
+    "gerund": "creating"
+  },
+  "creep": {
+    "infinitive": "creep",
+    "past": "crept",
+    "pastPart": "crept",
+    "present": "creeps",
+    "gerund": "creeping"
+  },
+  "crib": {
+    "infinitive": "crib",
+    "past": "cribbed",
+    "pastPart": "cribbed",
+    "present": "cribs",
+    "gerund": "cribbing"
+  },
+  "cross": {
+    "infinitive": "cross",
+    "past": "crossed",
+    "pastPart": "crossed",
+    "present": "crosses",
+    "gerund": "crossing"
+  },
+  "crowd": {
+    "infinitive": "crowd",
+    "past": "crowded",
+    "pastPart": "crowded",
+    "present": "crowds",
+    "gerund": "crowding"
+  },
+  "crush": {
+    "infinitive": "crush",
+    "past": "crushed",
+    "pastPart": "crushed",
+    "present": "crushes",
+    "gerund": "crushing"
+  },
+  "cry": {
+    "infinitive": "cry",
+    "past": "cried",
+    "pastPart": "cried",
+    "present": "cries",
+    "gerund": "crying"
+  },
+  "curb": {
+    "infinitive": "curb",
+    "past": "curbed",
+    "pastPart": "curbed",
+    "present": "curbs",
+    "gerund": "curbing"
+  },
+  "cure": {
+    "infinitive": "cure",
+    "past": "cured",
+    "pastPart": "cured",
+    "present": "cures",
+    "gerund": "curing"
+  },
+  "curve": {
+    "infinitive": "curve",
+    "past": "curved",
+    "pastPart": "curved",
+    "present": "curves",
+    "gerund": "curving"
+  },
+  "cut": {
+    "infinitive": "cut",
+    "past": "cut",
+    "pastPart": "cut",
+    "present": "cuts",
+    "gerund": "cutting"
+  },
+  "cycle": {
+    "infinitive": "cycle",
+    "past": "cycled",
+    "pastPart": "cycled",
+    "present": "cycles",
+    "gerund": "cycling"
+  },
+  "damage": {
+    "infinitive": "damage",
+    "past": "damaged",
+    "pastPart": "damaged",
+    "present": "damages",
+    "gerund": "damaging"
+  },
+  "damp": {
+    "infinitive": "damp",
+    "past": "damped",
+    "pastPart": "damped",
+    "present": "damps",
+    "gerund": "damping"
+  },
+  "dance": {
+    "infinitive": "dance",
+    "past": "danced",
+    "pastPart": "danced",
+    "present": "dances",
+    "gerund": "dancing"
+  },
+  "dare": {
+    "infinitive": "dare",
+    "past": "dared",
+    "pastPart": "dared",
+    "present": "dares",
+    "gerund": "daring"
+  },
+  "dash": {
+    "infinitive": "dash",
+    "past": "dashed",
+    "pastPart": "dashed",
+    "present": "dashes",
+    "gerund": "dashing"
+  },
+  "dazzle": {
+    "infinitive": "dazzle",
+    "past": "dazzled",
+    "pastPart": "dazzled",
+    "present": "dazzles",
+    "gerund": "dazzling"
+  },
+  "deal": {
+    "infinitive": "deal",
+    "past": "dealt",
+    "pastPart": "dealt",
+    "present": "deals",
+    "gerund": "dealing"
+  },
+  "decay": {
+    "infinitive": "decay",
+    "past": "decayed",
+    "pastPart": "decayed",
+    "present": "decays",
+    "gerund": "decaying"
+  },
+  "decide": {
+    "infinitive": "decide",
+    "past": "decided",
+    "pastPart": "decided",
+    "present": "decides",
+    "gerund": "deciding"
+  },
+  "declare": {
+    "infinitive": "declare",
+    "past": "declared",
+    "pastPart": "declared",
+    "present": "declares",
+    "gerund": "declaring"
+  },
+  "decorate": {
+    "infinitive": "decorate",
+    "past": "decorated",
+    "pastPart": "decorated",
+    "present": "decorates",
+    "gerund": "decorating"
+  },
+  "decrease": {
+    "infinitive": "decrease",
+    "past": "decreased",
+    "pastPart": "decreased",
+    "present": "decreases",
+    "gerund": "decreasing"
+  },
+  "dedicate": {
+    "infinitive": "dedicate",
+    "past": "dedicated",
+    "pastPart": "dedicated",
+    "present": "dedicates",
+    "gerund": "dedicating"
+  },
+  "delay": {
+    "infinitive": "delay",
+    "past": "delayed",
+    "pastPart": "delayed",
+    "present": "delays",
+    "gerund": "delaying"
+  },
+  "delete": {
+    "infinitive": "delete",
+    "past": "deleted",
+    "pastPart": "deleted",
+    "present": "deletes",
+    "gerund": "deleting"
+  },
+  "deny": {
+    "infinitive": "deny",
+    "past": "denied",
+    "pastPart": "denied",
+    "present": "denies",
+    "gerund": "denying"
+  },
+  "depend": {
+    "infinitive": "depend",
+    "past": "depended",
+    "pastPart": "depended",
+    "present": "depends",
+    "gerund": "depending"
+  },
+  "deprive": {
+    "infinitive": "deprive",
+    "past": "deprived",
+    "pastPart": "deprived",
+    "present": "deprives",
+    "gerund": "depriving"
+  },
+  "derive": {
+    "infinitive": "derive",
+    "past": "derived",
+    "pastPart": "derived",
+    "present": "derives",
+    "gerund": "deriving"
+  },
+  "describe": {
+    "infinitive": "describe",
+    "past": "described",
+    "pastPart": "described",
+    "present": "describes",
+    "gerund": "describing"
+  },
+  "desire": {
+    "infinitive": "desire",
+    "past": "desired",
+    "pastPart": "desired",
+    "present": "desires",
+    "gerund": "desiring"
+  },
+  "destroy": {
+    "infinitive": "destroy",
+    "past": "destroyed",
+    "pastPart": "destroyed",
+    "present": "destroys",
+    "gerund": "destroying"
+  },
+  "detach": {
+    "infinitive": "detach",
+    "past": "detached",
+    "pastPart": "detached",
+    "present": "detaches",
+    "gerund": "detaching"
+  },
+  "detect": {
+    "infinitive": "detect",
+    "past": "detected",
+    "pastPart": "detected",
+    "present": "detects",
+    "gerund": "detecting"
+  },
+  "determine": {
+    "infinitive": "determine",
+    "past": "determined",
+    "pastPart": "determined",
+    "present": "determines",
+    "gerund": "determining"
+  },
+  "develop": {
+    "infinitive": "develop",
+    "past": "developed",
+    "pastPart": "developed",
+    "present": "develops",
+    "gerund": "developing"
+  },
+  "die": {
+    "infinitive": "die",
+    "past": "died",
+    "pastPart": "died",
+    "present": "dies",
+    "gerund": "dying"
+  },
+  "differ": {
+    "infinitive": "differ",
+    "past": "differed",
+    "pastPart": "differed",
+    "present": "differs",
+    "gerund": "differing"
+  },
+  "dig": {
+    "infinitive": "dig",
+    "past": "dug",
+    "pastPart": "dug",
+    "present": "digs",
+    "gerund": "digging"
+  },
+  "digest": {
+    "infinitive": "digest",
+    "past": "digested",
+    "pastPart": "digested",
+    "present": "digests",
+    "gerund": "digesting"
+  },
+  "dim": {
+    "infinitive": "dim",
+    "past": "dimmed",
+    "pastPart": "dimmed",
+    "present": "dims",
+    "gerund": "dimming"
+  },
+  "diminish": {
+    "infinitive": "diminish",
+    "past": "diminished",
+    "pastPart": "diminished",
+    "present": "diminishes",
+    "gerund": "diminishing"
+  },
+  "dine": {
+    "infinitive": "dine",
+    "past": "dined",
+    "pastPart": "dined",
+    "present": "dines",
+    "gerund": "dining"
+  },
+  "dip": {
+    "infinitive": "dip",
+    "past": "dipped",
+    "pastPart": "dipped",
+    "present": "dips",
+    "gerund": "dipping"
+  },
+  "direct": {
+    "infinitive": "direct",
+    "past": "directed",
+    "pastPart": "directed",
+    "present": "directs",
+    "gerund": "directing"
+  },
+  "disappear": {
+    "infinitive": "disappear",
+    "past": "disappeared",
+    "pastPart": "disappeared",
+    "present": "disappears",
+    "gerund": "disappearing"
+  },
+  "discover": {
+    "infinitive": "discover",
+    "past": "discovered",
+    "pastPart": "discovered",
+    "present": "discovers",
+    "gerund": "discovering"
+  },
+  "discuss": {
+    "infinitive": "discuss",
+    "past": "discussed",
+    "pastPart": "discussed",
+    "present": "discusses",
+    "gerund": "discussing"
+  },
+  "disobey": {
+    "infinitive": "disobey",
+    "past": "disobeyed",
+    "pastPart": "disobeyed",
+    "present": "disobeys",
+    "gerund": "disobeying"
+  },
+  "display": {
+    "infinitive": "display",
+    "past": "displayed",
+    "pastPart": "displayed",
+    "present": "displays",
+    "gerund": "displaying"
+  },
+  "dispose": {
+    "infinitive": "dispose",
+    "past": "disposed",
+    "pastPart": "disposed",
+    "present": "disposes",
+    "gerund": "disposing"
+  },
+  "distribute": {
+    "infinitive": "distribute",
+    "past": "distributed",
+    "pastPart": "distributed",
+    "present": "distributes",
+    "gerund": "distributing"
+  },
+  "disturb": {
+    "infinitive": "disturb",
+    "past": "disturbed",
+    "pastPart": "disturbed",
+    "present": "disturbs",
+    "gerund": "disturbing"
+  },
+  "disuse": {
+    "infinitive": "disuse",
+    "past": "disused",
+    "pastPart": "disused",
+    "present": "disuses",
+    "gerund": "disusing"
+  },
+  "dive": {
+    "infinitive": "dive",
+    "past": "dived",
+    "pastPart": "dived",
+    "present": "dives",
+    "gerund": "diving"
+  },
+  "divide": {
+    "infinitive": "divide",
+    "past": "divided",
+    "pastPart": "divided",
+    "present": "divides",
+    "gerund": "dividing"
+  },
+  "do": {
+    "infinitive": "do",
+    "past": "did",
+    "pastPart": "done",
+    "present": "does",
+    "gerund": "doing"
+  },
+  "donate": {
+    "infinitive": "donate",
+    "past": "donated",
+    "pastPart": "donated",
+    "present": "donates",
+    "gerund": "donating"
+  },
+  "download": {
+    "infinitive": "download",
+    "past": "downloaded",
+    "pastPart": "downloaded",
+    "present": "downloads",
+    "gerund": "downloading"
+  },
+  "drag": {
+    "infinitive": "drag",
+    "past": "dragged",
+    "pastPart": "dragged",
+    "present": "drags",
+    "gerund": "dragging"
+  },
+  "draw": {
+    "infinitive": "draw",
+    "past": "drew",
+    "pastPart": "drawn",
+    "present": "draws",
+    "gerund": "drawing"
+  },
+  "dream": {
+    "infinitive": "dream",
+    "past": "dreamt",
+    "pastPart": "dreamt",
+    "present": "dreams",
+    "gerund": "dreaming"
+  },
+  "dress": {
+    "infinitive": "dress",
+    "past": "dressed",
+    "pastPart": "dressed",
+    "present": "dresses",
+    "gerund": "dressing"
+  },
+  "drill": {
+    "infinitive": "drill",
+    "past": "drilled",
+    "pastPart": "drilled",
+    "present": "drills",
+    "gerund": "drilling"
+  },
+  "drink": {
+    "infinitive": "drink",
+    "past": "drank",
+    "pastPart": "drunk",
+    "present": "drinks",
+    "gerund": "drinking"
+  },
+  "drive": {
+    "infinitive": "drive",
+    "past": "drove",
+    "pastPart": "driven",
+    "present": "drives",
+    "gerund": "driving"
+  },
+  "drop": {
+    "infinitive": "drop",
+    "past": "dropped",
+    "pastPart": "dropped",
+    "present": "drops",
+    "gerund": "dropping"
+  },
+  "dry": {
+    "infinitive": "dry",
+    "past": "dried",
+    "pastPart": "dried",
+    "present": "dries",
+    "gerund": "drying"
+  },
+  "dump": {
+    "infinitive": "dump",
+    "past": "dumped",
+    "pastPart": "dumped",
+    "present": "dumps",
+    "gerund": "dumping"
+  },
+  "dwell": {
+    "infinitive": "dwell",
+    "past": "dwelt",
+    "pastPart": "dwelt",
+    "present": "dwells",
+    "gerund": "dwelling"
+  },
+  "dye": {
+    "infinitive": "dye",
+    "past": "dyed",
+    "pastPart": "dyed",
+    "present": "dyes",
+    "gerund": "dyeing"
+  },
+  "earn": {
+    "infinitive": "earn",
+    "past": "earned",
+    "pastPart": "earned",
+    "present": "earns",
+    "gerund": "earning"
+  },
+  "eat": {
+    "infinitive": "eat",
+    "past": "ate",
+    "pastPart": "eaten",
+    "present": "eats",
+    "gerund": "eating"
+  },
+  "educate": {
+    "infinitive": "educate",
+    "past": "educated",
+    "pastPart": "educated",
+    "present": "educates",
+    "gerund": "educating"
+  },
+  "empower": {
+    "infinitive": "empower",
+    "past": "empowered",
+    "pastPart": "empowered",
+    "present": "empowers",
+    "gerund": "empowering"
+  },
+  "empty": {
+    "infinitive": "empty",
+    "past": "emptied",
+    "pastPart": "emptied",
+    "present": "empties",
+    "gerund": "emptying"
+  },
+  "encircle": {
+    "infinitive": "encircle",
+    "past": "encircled",
+    "pastPart": "encircled",
+    "present": "encircles",
+    "gerund": "encircling"
+  },
+  "encourage": {
+    "infinitive": "encourage",
+    "past": "encouraged",
+    "pastPart": "encouraged",
+    "present": "encourages",
+    "gerund": "encouraging"
+  },
+  "encroach": {
+    "infinitive": "encroach",
+    "past": "encroached",
+    "pastPart": "encroached",
+    "present": "encroaches",
+    "gerund": "encroaching"
+  },
+  "endanger": {
+    "infinitive": "endanger",
+    "past": "endangered",
+    "pastPart": "endangered",
+    "present": "endangers",
+    "gerund": "entangling"
+  },
+  "endorse": {
+    "infinitive": "endorse",
+    "past": "endorsed",
+    "pastPart": "endorsed",
+    "present": "endorses",
+    "gerund": "endorsing"
+  },
+  "endure": {
+    "infinitive": "endure",
+    "past": "endured",
+    "pastPart": "endured",
+    "present": "endures",
+    "gerund": "enduring"
+  },
+  "engrave": {
+    "infinitive": "engrave",
+    "past": "engraved",
+    "pastPart": "engraved",
+    "present": "engraves",
+    "gerund": "engraving"
+  },
+  "enjoy": {
+    "infinitive": "enjoy",
+    "past": "enjoyed",
+    "pastPart": "enjoyed",
+    "present": "enjoys",
+    "gerund": "enjoying"
+  },
+  "enlarge": {
+    "infinitive": "enlarge",
+    "past": "enlarged",
+    "pastPart": "enlarged",
+    "present": "enlarges",
+    "gerund": "enlarging"
+  },
+  "enlighten": {
+    "infinitive": "enlighten",
+    "past": "enlightened",
+    "pastPart": "enlightened",
+    "present": "enlightens",
+    "gerund": "enlightening"
+  },
+  "enter": {
+    "infinitive": "enter",
+    "past": "entered",
+    "pastPart": "entered",
+    "present": "enters",
+    "gerund": "entering"
+  },
+  "envy": {
+    "infinitive": "envy",
+    "past": "envied",
+    "pastPart": "envied",
+    "present": "envies",
+    "gerund": "envying"
+  },
+  "erase": {
+    "infinitive": "erase",
+    "past": "erased",
+    "pastPart": "erased",
+    "present": "erases",
+    "gerund": "erasing"
+  },
+  "escape": {
+    "infinitive": "escape",
+    "past": "escaped",
+    "pastPart": "escaped",
+    "present": "escapes",
+    "gerund": "escaping"
+  },
+  "evaporate": {
+    "infinitive": "evaporate",
+    "past": "evaporated",
+    "pastPart": "evaporated",
+    "present": "evaporates",
+    "gerund": "evaporating"
+  },
+  "exchange": {
+    "infinitive": "exchange",
+    "past": "exchanged",
+    "pastPart": "exchanged",
+    "present": "exchanges",
+    "gerund": "exchanging"
+  },
+  "exclaim": {
+    "infinitive": "exclaim",
+    "past": "exclaimed",
+    "pastPart": "exclaimed",
+    "present": "exclaims",
+    "gerund": "exclaiming"
+  },
+  "exclude": {
+    "infinitive": "exclude",
+    "past": "excluded",
+    "pastPart": "excluded",
+    "present": "excludes",
+    "gerund": "excluding"
+  },
+  "exist": {
+    "infinitive": "exist",
+    "past": "existed",
+    "pastPart": "existed",
+    "present": "exists",
+    "gerund": "existing"
+  },
+  "expand": {
+    "infinitive": "expand",
+    "past": "expanded",
+    "pastPart": "expanded",
+    "present": "expands",
+    "gerund": "expanding"
+  },
+  "expect": {
+    "infinitive": "expect",
+    "past": "expected",
+    "pastPart": "expected",
+    "present": "expects",
+    "gerund": "expecting"
+  },
+  "explain": {
+    "infinitive": "explain",
+    "past": "explained",
+    "pastPart": "explained",
+    "present": "explains",
+    "gerund": "explaining"
+  },
+  "explore": {
+    "infinitive": "explore",
+    "past": "explored",
+    "pastPart": "explored",
+    "present": "explores",
+    "gerund": "exploring"
+  },
+  "express": {
+    "infinitive": "express",
+    "past": "expressed",
+    "pastPart": "expressed",
+    "present": "expresses",
+    "gerund": "expressing"
+  },
+  "extend": {
+    "infinitive": "extend",
+    "past": "extended",
+    "pastPart": "extended",
+    "present": "extends",
+    "gerund": "extending"
+  },
+  "eye": {
+    "infinitive": "eye",
+    "past": "eyed",
+    "pastPart": "eyed",
+    "present": "eyes",
+    "gerund": "eyeing"
+  },
+  "face": {
+    "infinitive": "face",
+    "past": "faced",
+    "pastPart": "faced",
+    "present": "faces",
+    "gerund": "facing"
+  },
+  "fail": {
+    "infinitive": "fail",
+    "past": "failed",
+    "pastPart": "failed",
+    "present": "fails",
+    "gerund": "failing"
+  },
+  "faint": {
+    "infinitive": "faint",
+    "past": "fainted",
+    "pastPart": "fainted",
+    "present": "faints",
+    "gerund": "fainting"
+  },
+  "fall": {
+    "infinitive": "fall",
+    "past": "fell",
+    "pastPart": "fallen",
+    "present": "falls",
+    "gerund": "falling"
+  },
+  "fan": {
+    "infinitive": "fan",
+    "past": "fanned",
+    "pastPart": "fanned",
+    "present": "fans",
+    "gerund": "fanning"
+  },
+  "fancy": {
+    "infinitive": "fancy",
+    "past": "fancied",
+    "pastPart": "fancied",
+    "present": "fancies",
+    "gerund": "fancying"
+  },
+  "favour": {
+    "infinitive": "favour",
+    "past": "favoured",
+    "pastPart": "favoured",
+    "present": "favours",
+    "gerund": "favouring"
+  },
+  "fax": {
+    "infinitive": "fax",
+    "past": "faxed",
+    "pastPart": "faxed",
+    "present": "faxes",
+    "gerund": "faxing"
+  },
+  "feed": {
+    "infinitive": "feed",
+    "past": "fed",
+    "pastPart": "fed",
+    "present": "feeds",
+    "gerund": "feeding"
+  },
+  "feel": {
+    "infinitive": "feel",
+    "past": "felt",
+    "pastPart": "felt",
+    "present": "feels",
+    "gerund": "feeling"
+  },
+  "ferry": {
+    "infinitive": "ferry",
+    "past": "ferried",
+    "pastPart": "ferried",
+    "present": "ferries",
+    "gerund": "ferrying"
+  },
+  "fetch": {
+    "infinitive": "fetch",
+    "past": "fetched",
+    "pastPart": "fetched",
+    "present": "fetches",
+    "gerund": "fetching"
+  },
+  "fight": {
+    "infinitive": "fight",
+    "past": "fought",
+    "pastPart": "fought",
+    "present": "fights",
+    "gerund": "fighting"
+  },
+  "fill": {
+    "infinitive": "fill",
+    "past": "filled",
+    "pastPart": "filled",
+    "present": "fills",
+    "gerund": "filling"
+  },
+  "find": {
+    "infinitive": "find",
+    "past": "found",
+    "pastPart": "found",
+    "present": "finds",
+    "gerund": "finding"
+  },
+  "finish": {
+    "infinitive": "finish",
+    "past": "finished",
+    "pastPart": "finished",
+    "present": "finishes",
+    "gerund": "finishing"
+  },
+  "fish": {
+    "infinitive": "fish",
+    "past": "fished",
+    "pastPart": "fished",
+    "present": "fishes",
+    "gerund": "fishing"
+  },
+  "fit": {
+    "infinitive": "fit",
+    "past": "fit/fitted",
+    "pastPart": "fit/fitted",
+    "present": "fits",
+    "gerund": "fitting"
+  },
+  "fix": {
+    "infinitive": "fix",
+    "past": "fixed",
+    "pastPart": "fixed",
+    "present": "fixes",
+    "gerund": "fixing"
+  },
+  "fizz": {
+    "infinitive": "fizz",
+    "past": "fizzed",
+    "pastPart": "fizzed",
+    "present": "fizzes",
+    "gerund": "fizzing"
+  },
+  "flap": {
+    "infinitive": "flap",
+    "past": "flapped",
+    "pastPart": "flapped",
+    "present": "flaps",
+    "gerund": "flapping"
+  },
+  "flash": {
+    "infinitive": "flash",
+    "past": "flashed",
+    "pastPart": "flashed",
+    "present": "flashes",
+    "gerund": "flashing"
+  },
+  "flee": {
+    "infinitive": "flee",
+    "past": "fled",
+    "pastPart": "fled",
+    "present": "flees",
+    "gerund": "fleeing"
+  },
+  "fling": {
+    "infinitive": "fling",
+    "past": "flung",
+    "pastPart": "flung",
+    "present": "flings",
+    "gerund": "flinging"
+  },
+  "float": {
+    "infinitive": "float",
+    "past": "floated",
+    "pastPart": "floated",
+    "present": "floats",
+    "gerund": "floating"
+  },
+  "flop": {
+    "infinitive": "flop",
+    "past": "flopped",
+    "pastPart": "flopped",
+    "present": "flops",
+    "gerund": "flopping"
+  },
+  "fly": {
+    "infinitive": "fly",
+    "past": "flew",
+    "pastPart": "flown",
+    "present": "flies",
+    "gerund": "flying"
+  },
+  "fold": {
+    "infinitive": "fold",
+    "past": "folded",
+    "pastPart": "folded",
+    "present": "folds",
+    "gerund": "folding"
+  },
+  "follow": {
+    "infinitive": "follow",
+    "past": "followed",
+    "pastPart": "followed",
+    "present": "follows",
+    "gerund": "following"
+  },
+  "forbid": {
+    "infinitive": "forbid",
+    "past": "forbade",
+    "pastPart": "forbidden",
+    "present": "forbids",
+    "gerund": "forbidding"
+  },
+  "force": {
+    "infinitive": "force",
+    "past": "forced",
+    "pastPart": "forced",
+    "present": "forces",
+    "gerund": "forcing"
+  },
+  "forecast": {
+    "infinitive": "forecast",
+    "past": "forecast",
+    "pastPart": "forecast",
+    "present": "forecasts",
+    "gerund": "forecasting"
+  },
+  "foretell": {
+    "infinitive": "foretell",
+    "past": "foretold",
+    "pastPart": "foretold",
+    "present": "foretells",
+    "gerund": "foretelling"
+  },
+  "forget": {
+    "infinitive": "forget",
+    "past": "forgot",
+    "pastPart": "forgotten",
+    "present": "forgets",
+    "gerund": "forgetting"
+  },
+  "forgive": {
+    "infinitive": "forgive",
+    "past": "forgave",
+    "pastPart": "forgiven",
+    "present": "forgives",
+    "gerund": "forgiving"
+  },
+  "forlese": {
+    "infinitive": "forlese",
+    "past": "forlore",
+    "pastPart": "forlorn",
+    "present": "forlese",
+    "gerund": "forlesing"
+  },
+  "form": {
+    "infinitive": "form",
+    "past": "formed",
+    "pastPart": "formed",
+    "present": "forms",
+    "gerund": "forming"
+  },
+  "forsake": {
+    "infinitive": "forsake",
+    "past": "forsook",
+    "pastPart": "forsaken",
+    "present": "forsakes",
+    "gerund": "forsaking"
+  },
+  "found": {
+    "infinitive": "found",
+    "past": "founded",
+    "pastPart": "founded",
+    "present": "founds",
+    "gerund": "founding"
+  },
+  "frame": {
+    "infinitive": "frame",
+    "past": "framed",
+    "pastPart": "framed",
+    "present": "frames",
+    "gerund": "framing"
+  },
+  "free": {
+    "infinitive": "free",
+    "past": "freed",
+    "pastPart": "freed",
+    "present": "frees",
+    "gerund": "freeing"
+  },
+  "freeze": {
+    "infinitive": "freeze",
+    "past": "froze",
+    "pastPart": "frozen",
+    "present": "freezes",
+    "gerund": "freezing"
+  },
+  "frighten": {
+    "infinitive": "frighten",
+    "past": "frightened",
+    "pastPart": "frightened",
+    "present": "frightens",
+    "gerund": "frightening"
+  },
+  "fry": {
+    "infinitive": "fry",
+    "past": "fried",
+    "pastPart": "fried",
+    "present": "fries",
+    "gerund": "frying"
+  },
+  "fulfil": {
+    "infinitive": "fulfil",
+    "past": "fulfilled",
+    "pastPart": "fulfilled",
+    "present": "fulfils",
+    "gerund": "fulfilling"
+  },
+  "gag": {
+    "infinitive": "gag",
+    "past": "gagged",
+    "pastPart": "gagged",
+    "present": "gags",
+    "gerund": "gagging"
+  },
+  "gain": {
+    "infinitive": "gain",
+    "past": "gained",
+    "pastPart": "gained",
+    "present": "gains",
+    "gerund": "gaining"
+  },
+  "gainsay": {
+    "infinitive": "gainsay",
+    "past": "gainsaid",
+    "pastPart": "gainsaid",
+    "present": "gainsays",
+    "gerund": "gainsaying"
+  },
+  "gash": {
+    "infinitive": "gash",
+    "past": "gashed",
+    "pastPart": "gashed",
+    "present": "gashes",
+    "gerund": "gashing"
+  },
+  "gaze": {
+    "infinitive": "gaze",
+    "past": "gazed",
+    "pastPart": "gazed",
+    "present": "gazes",
+    "gerund": "gazing"
+  },
+  "get": {
+    "infinitive": "get",
+    "past": "got",
+    "pastPart": "got",
+    "present": "gets",
+    "gerund": "getting"
+  },
+  "give": {
+    "infinitive": "give",
+    "past": "gave",
+    "pastPart": "given",
+    "present": "gives",
+    "gerund": "giving"
+  },
+  "glance": {
+    "infinitive": "glance",
+    "past": "glanced",
+    "pastPart": "glanced",
+    "present": "glances",
+    "gerund": "glancing"
+  },
+  "glitter": {
+    "infinitive": "glitter",
+    "past": "glittered",
+    "pastPart": "glittered",
+    "present": "glitters",
+    "gerund": "glittering"
+  },
+  "glow": {
+    "infinitive": "glow",
+    "past": "glowed",
+    "pastPart": "glowed",
+    "present": "glows",
+    "gerund": "glowing"
+  },
+  "go": {
+    "infinitive": "go",
+    "past": "went",
+    "pastPart": "gone",
+    "present": "goes",
+    "gerund": "going"
+  },
+  "google": {
+    "infinitive": "google",
+    "past": "googled",
+    "pastPart": "googled",
+    "present": "googles",
+    "gerund": "googling"
+  },
+  "govern": {
+    "infinitive": "govern",
+    "past": "governed",
+    "pastPart": "governed",
+    "present": "governs",
+    "gerund": "governing"
+  },
+  "grab": {
+    "infinitive": "grab",
+    "past": "grabbed",
+    "pastPart": "grabbed",
+    "present": "grabs",
+    "gerund": "grabbing"
+  },
+  "grade": {
+    "infinitive": "grade",
+    "past": "graded",
+    "pastPart": "graded",
+    "present": "grades",
+    "gerund": "grading"
+  },
+  "grant": {
+    "infinitive": "grant",
+    "past": "granted",
+    "pastPart": "granted",
+    "present": "grants",
+    "gerund": "granting"
+  },
+  "greet": {
+    "infinitive": "greet",
+    "past": "greeted",
+    "pastPart": "greeted",
+    "present": "greets",
+    "gerund": "greeting"
+  },
+  "grind": {
+    "infinitive": "grind",
+    "past": "ground",
+    "pastPart": "ground",
+    "present": "grinds",
+    "gerund": "grinding"
+  },
+  "grip": {
+    "infinitive": "grip",
+    "past": "gripped",
+    "pastPart": "gripped",
+    "present": "grips",
+    "gerund": "gripping"
+  },
+  "grow": {
+    "infinitive": "grow",
+    "past": "grew",
+    "pastPart": "grown",
+    "present": "grows",
+    "gerund": "growing"
+  },
+  "guard": {
+    "infinitive": "guard",
+    "past": "guarded",
+    "pastPart": "guarded",
+    "present": "guards",
+    "gerund": "guarding"
+  },
+  "guess": {
+    "infinitive": "guess",
+    "past": "guessed",
+    "pastPart": "guessed",
+    "present": "guesses",
+    "gerund": "guessing"
+  },
+  "guide": {
+    "infinitive": "guide",
+    "past": "guided",
+    "pastPart": "guided",
+    "present": "guides",
+    "gerund": "guiding"
+  },
+  "handle": {
+    "infinitive": "handle",
+    "past": "handled",
+    "pastPart": "handled",
+    "present": "handles",
+    "gerund": "handling"
+  },
+  "hang": {
+    "infinitive": "hang",
+    "past": "hung",
+    "pastPart": "hung",
+    "present": "hangs",
+    "gerund": "hanging"
+  },
+  "happen": {
+    "infinitive": "happen",
+    "past": "happened",
+    "pastPart": "happened",
+    "present": "happens",
+    "gerund": "happening"
+  },
+  "harm": {
+    "infinitive": "harm",
+    "past": "harmed",
+    "pastPart": "harmed",
+    "present": "harms",
+    "gerund": "harming"
+  },
+  "hand": {
+    "infinitive": "hand",
+    "past": "handed",
+    "pastPart": "handed",
+    "present": "hands",
+    "gerund": "handing"
+  },
+  "hatch": {
+    "infinitive": "hatch",
+    "past": "hatched",
+    "pastPart": "hatched",
+    "present": "hatches",
+    "gerund": "hatching"
+  },
+  "hate": {
+    "infinitive": "hate",
+    "past": "hated",
+    "pastPart": "hated",
+    "present": "hates",
+    "gerund": "hating"
+  },
+  "have": {
+    "infinitive": "have",
+    "past": "had",
+    "pastPart": "had",
+    "present": "has",
+    "gerund": "having"
+  },
+  "heal": {
+    "infinitive": "heal",
+    "past": "healed",
+    "pastPart": "healed",
+    "present": "heals",
+    "gerund": "healing"
+  },
+  "hear": {
+    "infinitive": "hear",
+    "past": "heard",
+    "pastPart": "heard",
+    "present": "hears",
+    "gerund": "hearing"
+  },
+  "heave": {
+    "infinitive": "heave",
+    "past": "hove",
+    "pastPart": "hove",
+    "present": "heaves",
+    "gerund": "heaving"
+  },
+  "help": {
+    "infinitive": "help",
+    "past": "helped",
+    "pastPart": "helped",
+    "present": "helps",
+    "gerund": "helping"
+  },
+  "hew": {
+    "infinitive": "hew",
+    "past": "hewed",
+    "pastPart": "hewn",
+    "present": "hews",
+    "gerund": "hewing"
+  },
+  "hide": {
+    "infinitive": "hide",
+    "past": "hid",
+    "pastPart": "hidden",
+    "present": "hides",
+    "gerund": "hiding"
+  },
+  "hinder": {
+    "infinitive": "hinder",
+    "past": "hindered",
+    "pastPart": "hindered",
+    "present": "hinders",
+    "gerund": "hindering"
+  },
+  "hiss": {
+    "infinitive": "hiss",
+    "past": "hissed",
+    "pastPart": "hissed",
+    "present": "hisses",
+    "gerund": "hissing"
+  },
+  "hit": {
+    "infinitive": "hit",
+    "past": "hit",
+    "pastPart": "hit",
+    "present": "hits",
+    "gerund": "hitting"
+  },
+  "hoax": {
+    "infinitive": "hoax",
+    "past": "hoaxed",
+    "pastPart": "hoaxed",
+    "present": "hoaxes",
+    "gerund": "hoaxing"
+  },
+  "hold": {
+    "infinitive": "hold",
+    "past": "held",
+    "pastPart": "held",
+    "present": "holds",
+    "gerund": "holding"
+  },
+  "hop": {
+    "infinitive": "hop",
+    "past": "hopped",
+    "pastPart": "hopped",
+    "present": "hops",
+    "gerund": "hopping"
+  },
+  "hope": {
+    "infinitive": "hope",
+    "past": "hoped",
+    "pastPart": "hoped",
+    "present": "hopes",
+    "gerund": "hoping"
+  },
+  "horrify": {
+    "infinitive": "horrify",
+    "past": "horrified",
+    "pastPart": "horrified",
+    "present": "horrifies",
+    "gerund": "horrifying"
+  },
+  "hug": {
+    "infinitive": "hug",
+    "past": "hugged",
+    "pastPart": "hugged",
+    "present": "hugs",
+    "gerund": "hugging"
+  },
+  "hum": {
+    "infinitive": "hum",
+    "past": "hummed",
+    "pastPart": "hummed",
+    "present": "hums",
+    "gerund": "humming"
+  },
+  "humiliate": {
+    "infinitive": "humiliate",
+    "past": "humiliated",
+    "pastPart": "humiliated",
+    "present": "humiliates",
+    "gerund": "humiliating"
+  },
+  "hunt": {
+    "infinitive": "hunt",
+    "past": "hunted",
+    "pastPart": "hunted",
+    "present": "hunts",
+    "gerund": "hunting"
+  },
+  "hurl": {
+    "infinitive": "hurl",
+    "past": "hurled",
+    "pastPart": "hurled",
+    "present": "hurls",
+    "gerund": "hurling"
+  },
+  "hurry": {
+    "infinitive": "hurry",
+    "past": "hurried",
+    "pastPart": "hurried",
+    "present": "hurries",
+    "gerund": "hurrying"
+  },
+  "hurt": {
+    "infinitive": "hurt",
+    "past": "hurt",
+    "pastPart": "hurt",
+    "present": "hurts",
+    "gerund": "hurting"
+  },
+  "hush": {
+    "infinitive": "hush",
+    "past": "hushed",
+    "pastPart": "hushed",
+    "present": "hushes",
+    "gerund": "hushing"
+  },
+  "hustle": {
+    "infinitive": "hustle",
+    "past": "hustled",
+    "pastPart": "hustled",
+    "present": "hustles",
+    "gerund": "hustling"
+  },
+  "hypnotize": {
+    "infinitive": "hypnotize",
+    "past": "hypnotized",
+    "pastPart": "hypnotized",
+    "present": "hypnotizes",
+    "gerund": "hypnotizing"
+  },
+  "idealize": {
+    "infinitive": "idealize",
+    "past": "idealized",
+    "pastPart": "idealized",
+    "present": "idealizes",
+    "gerund": "idealizing"
+  },
+  "identify": {
+    "infinitive": "identify",
+    "past": "identified",
+    "pastPart": "identified",
+    "present": "identifies",
+    "gerund": "identifying"
+  },
+  "idolize": {
+    "infinitive": "idolize",
+    "past": "idolized",
+    "pastPart": "idolized",
+    "present": "idolizes",
+    "gerund": "idolizing"
+  },
+  "ignite": {
+    "infinitive": "ignite",
+    "past": "ignited",
+    "pastPart": "ignited",
+    "present": "ignites",
+    "gerund": "igniting"
+  },
+  "ignore": {
+    "infinitive": "ignore",
+    "past": "ignored",
+    "pastPart": "ignored",
+    "present": "ignores",
+    "gerund": "ignoring"
+  },
+  "ill-treat": {
+    "infinitive": "ill-treat",
+    "past": "ill-treated",
+    "pastPart": "ill-treated",
+    "present": "ill-treats",
+    "gerund": "ill-treating"
+  },
+  "illuminate": {
+    "infinitive": "illuminate",
+    "past": "illuminated",
+    "pastPart": "illuminated",
+    "present": "illuminates",
+    "gerund": "illuminating"
+  },
+  "illumine": {
+    "infinitive": "illumine",
+    "past": "illumined",
+    "pastPart": "illumined",
+    "present": "illumines",
+    "gerund": "illumining"
+  },
+  "illustrate": {
+    "infinitive": "illustrate",
+    "past": "illustrated",
+    "pastPart": "illustrated",
+    "present": "illustrates",
+    "gerund": "illustrating"
+  },
+  "imagine": {
+    "infinitive": "imagine",
+    "past": "imagined",
+    "pastPart": "imagined",
+    "present": "imagines",
+    "gerund": "imagining"
+  },
+  "imbibe": {
+    "infinitive": "imbibe",
+    "past": "imbibed",
+    "pastPart": "imbibed",
+    "present": "imbibes",
+    "gerund": "imbibing"
+  },
+  "imitate": {
+    "infinitive": "imitate",
+    "past": "imitated",
+    "pastPart": "imitated",
+    "present": "imitates",
+    "gerund": "imitating"
+  },
+  "immerse": {
+    "infinitive": "immerse",
+    "past": "immersed",
+    "pastPart": "immersed",
+    "present": "immerses",
+    "gerund": "immersing"
+  },
+  "immolate": {
+    "infinitive": "immolate",
+    "past": "immolated",
+    "pastPart": "immolated",
+    "present": "immolates",
+    "gerund": "immolating"
+  },
+  "immure": {
+    "infinitive": "immure",
+    "past": "immured",
+    "pastPart": "immured",
+    "present": "immures",
+    "gerund": "immuring"
+  },
+  "impair": {
+    "infinitive": "impair",
+    "past": "impaired",
+    "pastPart": "impaired",
+    "present": "impairs",
+    "gerund": "impairing"
+  },
+  "impart": {
+    "infinitive": "impart",
+    "past": "imparted",
+    "pastPart": "imparted",
+    "present": "imparts",
+    "gerund": "imparting"
+  },
+  "impeach": {
+    "infinitive": "impeach",
+    "past": "impeached",
+    "pastPart": "impeached",
+    "present": "impeaches",
+    "gerund": "impeaching"
+  },
+  "impede": {
+    "infinitive": "impede",
+    "past": "impeded",
+    "pastPart": "impeded",
+    "present": "impedes",
+    "gerund": "impeding"
+  },
+  "impel": {
+    "infinitive": "impel",
+    "past": "impelled",
+    "pastPart": "impelled",
+    "present": "impels",
+    "gerund": "impelling"
+  },
+  "impend": {
+    "infinitive": "impend",
+    "past": "impended",
+    "pastPart": "impended",
+    "present": "impends",
+    "gerund": "impending"
+  },
+  "imperil": {
+    "infinitive": "imperil",
+    "past": "imperilled",
+    "pastPart": "imperilled",
+    "present": "imperils",
+    "gerund": "imperilling"
+  },
+  "impinge": {
+    "infinitive": "impinge",
+    "past": "impinged",
+    "pastPart": "impinged",
+    "present": "impinges",
+    "gerund": "impinging"
+  },
+  "implant": {
+    "infinitive": "implant",
+    "past": "implanted",
+    "pastPart": "implanted",
+    "present": "implants",
+    "gerund": "implanting"
+  },
+  "implicate": {
+    "infinitive": "implicate",
+    "past": "implicated",
+    "pastPart": "implicated",
+    "present": "implicates",
+    "gerund": "implicating"
+  },
+  "implode": {
+    "infinitive": "implode",
+    "past": "imploded",
+    "pastPart": "imploded",
+    "present": "implodes",
+    "gerund": "imploding"
+  },
+  "implore": {
+    "infinitive": "implore",
+    "past": "implored",
+    "pastPart": "implored",
+    "present": "implores",
+    "gerund": "imploring"
+  },
+  "imply": {
+    "infinitive": "imply",
+    "past": "implied",
+    "pastPart": "implied",
+    "present": "implies",
+    "gerund": "implying"
+  },
+  "import": {
+    "infinitive": "import",
+    "past": "imported",
+    "pastPart": "imported",
+    "present": "imports",
+    "gerund": "importing"
+  },
+  "impose": {
+    "infinitive": "impose",
+    "past": "imposed",
+    "pastPart": "imposed",
+    "present": "imposes",
+    "gerund": "imposing"
+  },
+  "impress": {
+    "infinitive": "impress",
+    "past": "impressed",
+    "pastPart": "impressed",
+    "present": "impresses",
+    "gerund": "impressing"
+  },
+  "imprint": {
+    "infinitive": "imprint",
+    "past": "imprinted",
+    "pastPart": "imprinted",
+    "present": "imprints",
+    "gerund": "imprinting"
+  },
+  "imprison": {
+    "infinitive": "imprison",
+    "past": "imprisoned",
+    "pastPart": "imprisoned",
+    "present": "imprisons",
+    "gerund": "imprisoning"
+  },
+  "improve": {
+    "infinitive": "improve",
+    "past": "improved",
+    "pastPart": "improved",
+    "present": "improves",
+    "gerund": "improving"
+  },
+  "inaugurate": {
+    "infinitive": "inaugurate",
+    "past": "inaugurated",
+    "pastPart": "inaugurated",
+    "present": "inaugurates",
+    "gerund": "inaugurating"
+  },
+  "incise": {
+    "infinitive": "incise",
+    "past": "incised",
+    "pastPart": "incised",
+    "present": "incises",
+    "gerund": "incising"
+  },
+  "include": {
+    "infinitive": "include",
+    "past": "included",
+    "pastPart": "included",
+    "present": "includes",
+    "gerund": "including"
+  },
+  "increase": {
+    "infinitive": "increase",
+    "past": "increased",
+    "pastPart": "increased",
+    "present": "increases",
+    "gerund": "increasing"
+  },
+  "inculcate": {
+    "infinitive": "inculcate",
+    "past": "inculcated",
+    "pastPart": "inculcated",
+    "present": "inculcates",
+    "gerund": "inculcating"
+  },
+  "indent": {
+    "infinitive": "indent",
+    "past": "indented",
+    "pastPart": "indented",
+    "present": "indents",
+    "gerund": "indenting"
+  },
+  "indicate": {
+    "infinitive": "indicate",
+    "past": "indicated",
+    "pastPart": "indicated",
+    "present": "indicates",
+    "gerund": "indicating"
+  },
+  "induce": {
+    "infinitive": "induce",
+    "past": "induced",
+    "pastPart": "induced",
+    "present": "induces",
+    "gerund": "inducing"
+  },
+  "indulge": {
+    "infinitive": "indulge",
+    "past": "indulged",
+    "pastPart": "indulged",
+    "present": "indulges",
+    "gerund": "indulging"
+  },
+  "infect": {
+    "infinitive": "infect",
+    "past": "infected",
+    "pastPart": "infected",
+    "present": "infects",
+    "gerund": "infecting"
+  },
+  "infest": {
+    "infinitive": "infest",
+    "past": "infested",
+    "pastPart": "infested",
+    "present": "infests",
+    "gerund": "infesting"
+  },
+  "inflame": {
+    "infinitive": "inflame",
+    "past": "inflamed",
+    "pastPart": "inflamed",
+    "present": "inflames",
+    "gerund": "inflaming"
+  },
+  "inflate": {
+    "infinitive": "inflate",
+    "past": "inflated",
+    "pastPart": "inflated",
+    "present": "inflates",
+    "gerund": "inflating"
+  },
+  "inflect": {
+    "infinitive": "inflect",
+    "past": "inflected",
+    "pastPart": "inflected",
+    "present": "inflects",
+    "gerund": "inflecting"
+  },
+  "inform": {
+    "infinitive": "inform",
+    "past": "informed",
+    "pastPart": "informed",
+    "present": "informs",
+    "gerund": "informing"
+  },
+  "infringe": {
+    "infinitive": "infringe",
+    "past": "infringed",
+    "pastPart": "infringed",
+    "present": "infringes",
+    "gerund": "infringing"
+  },
+  "infuse": {
+    "infinitive": "infuse",
+    "past": "infused",
+    "pastPart": "infused",
+    "present": "infuses",
+    "gerund": "infusing"
+  },
+  "ingest": {
+    "infinitive": "ingest",
+    "past": "ingested",
+    "pastPart": "ingested",
+    "present": "ingests",
+    "gerund": "ingesting"
+  },
+  "inhabit": {
+    "infinitive": "inhabit",
+    "past": "inhabited",
+    "pastPart": "inhabited",
+    "present": "inhabits",
+    "gerund": "inhabiting"
+  },
+  "inhale": {
+    "infinitive": "inhale",
+    "past": "inhaled",
+    "pastPart": "inhaled",
+    "present": "inhales",
+    "gerund": "inhaling"
+  },
+  "inherit": {
+    "infinitive": "inherit",
+    "past": "inherited",
+    "pastPart": "inherited",
+    "present": "inherits",
+    "gerund": "inheriting"
+  },
+  "initiate": {
+    "infinitive": "initiate",
+    "past": "initiated",
+    "pastPart": "initiated",
+    "present": "initiates",
+    "gerund": "initiating"
+  },
+  "inject": {
+    "infinitive": "inject",
+    "past": "injected",
+    "pastPart": "injected",
+    "present": "injects",
+    "gerund": "injecting"
+  },
+  "injure": {
+    "infinitive": "injure",
+    "past": "injured",
+    "pastPart": "injured",
+    "present": "injures",
+    "gerund": "injuring"
+  },
+  "inlay": {
+    "infinitive": "inlay",
+    "past": "inlaid",
+    "pastPart": "inlaid",
+    "present": "inlays",
+    "gerund": "inlaying"
+  },
+  "innovate": {
+    "infinitive": "innovate",
+    "past": "innovated",
+    "pastPart": "innovated",
+    "present": "innovates",
+    "gerund": "innovating"
+  },
+  "input": {
+    "infinitive": "input",
+    "past": "input",
+    "pastPart": "input",
+    "present": "inputs",
+    "gerund": "inputting"
+  },
+  "inquire": {
+    "infinitive": "inquire",
+    "past": "inquired",
+    "pastPart": "inquired",
+    "present": "inquires",
+    "gerund": "inquiring"
+  },
+  "inscribe": {
+    "infinitive": "inscribe",
+    "past": "inscribed",
+    "pastPart": "inscribed",
+    "present": "inscribes",
+    "gerund": "inscribing"
+  },
+  "insert": {
+    "infinitive": "insert",
+    "past": "inserted",
+    "pastPart": "inserted",
+    "present": "inserts",
+    "gerund": "inserting"
+  },
+  "inspect": {
+    "infinitive": "inspect",
+    "past": "inspected",
+    "pastPart": "inspected",
+    "present": "inspects",
+    "gerund": "inspecting"
+  },
+  "inspire": {
+    "infinitive": "inspire",
+    "past": "inspired",
+    "pastPart": "inspired",
+    "present": "inspires",
+    "gerund": "inspiring"
+  },
+  "install": {
+    "infinitive": "install",
+    "past": "installed",
+    "pastPart": "installed",
+    "present": "installs",
+    "gerund": "installing"
+  },
+  "insult": {
+    "infinitive": "insult",
+    "past": "insulted",
+    "pastPart": "insulted",
+    "present": "insults",
+    "gerund": "insulting"
+  },
+  "insure": {
+    "infinitive": "insure",
+    "past": "insured",
+    "pastPart": "insured",
+    "present": "insures",
+    "gerund": "insuring"
+  },
+  "integrate": {
+    "infinitive": "integrate",
+    "past": "integrated",
+    "pastPart": "integrated",
+    "present": "integrates",
+    "gerund": "integrating"
+  },
+  "introduce": {
+    "infinitive": "introduce",
+    "past": "introduced",
+    "pastPart": "introduced",
+    "present": "introduces",
+    "gerund": "introducing"
+  },
+  "invent": {
+    "infinitive": "invent",
+    "past": "invented",
+    "pastPart": "invented",
+    "present": "invents",
+    "gerund": "inventing"
+  },
+  "invite": {
+    "infinitive": "invite",
+    "past": "invited",
+    "pastPart": "invited",
+    "present": "invites",
+    "gerund": "inviting"
+  },
+  "join": {
+    "infinitive": "join",
+    "past": "joined",
+    "pastPart": "joined",
+    "present": "joins",
+    "gerund": "joining"
+  },
+  "jump": {
+    "infinitive": "jump",
+    "past": "jumped",
+    "pastPart": "jumped",
+    "present": "jumps",
+    "gerund": "jumping"
+  },
+  "justify": {
+    "infinitive": "justify",
+    "past": "justified",
+    "pastPart": "justified",
+    "present": "justifies",
+    "gerund": "justifying"
+  },
+  "keep": {
+    "infinitive": "keep",
+    "past": "kept",
+    "pastPart": "kept",
+    "present": "keeps",
+    "gerund": "keeping"
+  },
+  "kick": {
+    "infinitive": "kick",
+    "past": "kicked",
+    "pastPart": "kicked",
+    "present": "kicks",
+    "gerund": "kicking"
+  },
+  "kid": {
+    "infinitive": "kid",
+    "past": "kidded",
+    "pastPart": "kidded",
+    "present": "kids",
+    "gerund": "kidding"
+  },
+  "kill": {
+    "infinitive": "kill",
+    "past": "killed",
+    "pastPart": "killed",
+    "present": "kills",
+    "gerund": "killing"
+  },
+  "kiss": {
+    "infinitive": "kiss",
+    "past": "kissed",
+    "pastPart": "kissed",
+    "present": "kisses",
+    "gerund": "kissing"
+  },
+  "kneel": {
+    "infinitive": "kneel",
+    "past": "knelt",
+    "pastPart": "knelt",
+    "present": "kneels",
+    "gerund": "kneeling"
+  },
+  "knit": {
+    "infinitive": "knit",
+    "past": "knit",
+    "pastPart": "knit",
+    "present": "knits",
+    "gerund": "knitting"
+  },
+  "knock": {
+    "infinitive": "knock",
+    "past": "knocked",
+    "pastPart": "knocked",
+    "present": "knocks",
+    "gerund": "knocking"
+  },
+  "know": {
+    "infinitive": "know",
+    "past": "knew",
+    "pastPart": "known",
+    "present": "knows",
+    "gerund": "knowing"
+  },
+  "lade": {
+    "infinitive": "lade",
+    "past": "laded",
+    "pastPart": "laden",
+    "present": "lades",
+    "gerund": "lading"
+  },
+  "land": {
+    "infinitive": "land",
+    "past": "landed",
+    "pastPart": "landed",
+    "present": "lands",
+    "gerund": "landing"
+  },
+  "last": {
+    "infinitive": "last",
+    "past": "lasted",
+    "pastPart": "lasted",
+    "present": "lasts",
+    "gerund": "lasting"
+  },
+  "latch": {
+    "infinitive": "latch",
+    "past": "latched",
+    "pastPart": "latched",
+    "present": "latches",
+    "gerund": "latching"
+  },
+  "laugh": {
+    "infinitive": "laugh",
+    "past": "laughed",
+    "pastPart": "laughed",
+    "present": "laughs",
+    "gerund": "laughing"
+  },
+  "lay": {
+    "infinitive": "lay",
+    "past": "laid",
+    "pastPart": "laid",
+    "present": "lays",
+    "gerund": "laying"
+  },
+  "lead": {
+    "infinitive": "lead",
+    "past": "led",
+    "pastPart": "led",
+    "present": "leads",
+    "gerund": "leading"
+  },
+  "leak": {
+    "infinitive": "leak",
+    "past": "leaked",
+    "pastPart": "leaked",
+    "present": "leaks",
+    "gerund": "leaking"
+  },
+  "lean": {
+    "infinitive": "lean",
+    "past": "leant",
+    "pastPart": "leant",
+    "present": "leans",
+    "gerund": "leaning"
+  },
+  "leap": {
+    "infinitive": "leap",
+    "past": "leapt",
+    "pastPart": "leapt",
+    "present": "leaps",
+    "gerund": "leaping"
+  },
+  "learn": {
+    "infinitive": "learn",
+    "past": "learnt",
+    "pastPart": "learnt",
+    "present": "learns",
+    "gerund": "learning"
+  },
+  "leave": {
+    "infinitive": "leave",
+    "past": "left",
+    "pastPart": "left",
+    "present": "leaves",
+    "gerund": "leaving"
+  },
+  "leer": {
+    "infinitive": "leer",
+    "past": "leered",
+    "pastPart": "leered",
+    "present": "leers",
+    "gerund": "leering"
+  },
+  "lend": {
+    "infinitive": "lend",
+    "past": "lent",
+    "pastPart": "lent",
+    "present": "lends",
+    "gerund": "lending"
+  },
+  "let": {
+    "infinitive": "let",
+    "past": "let",
+    "pastPart": "let",
+    "present": "lets",
+    "gerund": "letting"
+  },
+  "lick": {
+    "infinitive": "lick",
+    "past": "licked",
+    "pastPart": "licked",
+    "present": "licks",
+    "gerund": "licking"
+  },
+  "lie": {
+    "infinitive": "lie",
+    "past": "lied",
+    "pastPart": "lied",
+    "present": "lies",
+    "gerund": "lying"
+  },
+  "lift": {
+    "infinitive": "lift",
+    "past": "lifted",
+    "pastPart": "lifted",
+    "present": "lifts",
+    "gerund": "lifting"
+  },
+  "light": {
+    "infinitive": "light",
+    "past": "lit",
+    "pastPart": "lit",
+    "present": "lights",
+    "gerund": "lighting"
+  },
+  "like": {
+    "infinitive": "like",
+    "past": "liked",
+    "pastPart": "liked",
+    "present": "likes",
+    "gerund": "liking"
+  },
+  "limp": {
+    "infinitive": "limp",
+    "past": "limped",
+    "pastPart": "limped",
+    "present": "limps",
+    "gerund": "limping"
+  },
+  "listen": {
+    "infinitive": "listen",
+    "past": "listened",
+    "pastPart": "listened",
+    "present": "listens",
+    "gerund": "listening"
+  },
+  "live": {
+    "infinitive": "live",
+    "past": "lived",
+    "pastPart": "lived",
+    "present": "lives",
+    "gerund": "living"
+  },
+  "look": {
+    "infinitive": "look",
+    "past": "looked",
+    "pastPart": "looked",
+    "present": "looks",
+    "gerund": "looking"
+  },
+  "lose": {
+    "infinitive": "lose",
+    "past": "lost",
+    "pastPart": "lost",
+    "present": "loses",
+    "gerund": "losing"
+  },
+  "love": {
+    "infinitive": "love",
+    "past": "loved",
+    "pastPart": "loved",
+    "present": "loves",
+    "gerund": "loving"
+  },
+  "magnify": {
+    "infinitive": "magnify",
+    "past": "magnified",
+    "pastPart": "magnified",
+    "present": "magnifies",
+    "gerund": "magnifying"
+  },
+  "maintain": {
+    "infinitive": "maintain",
+    "past": "maintained",
+    "pastPart": "maintained",
+    "present": "maintains",
+    "gerund": "maintaining"
+  },
+  "make": {
+    "infinitive": "make",
+    "past": "made",
+    "pastPart": "made",
+    "present": "makes",
+    "gerund": "making"
+  },
+  "manage": {
+    "infinitive": "manage",
+    "past": "managed",
+    "pastPart": "managed",
+    "present": "manages",
+    "gerund": "managing"
+  },
+  "march": {
+    "infinitive": "march",
+    "past": "marched",
+    "pastPart": "marched",
+    "present": "marches",
+    "gerund": "marching"
+  },
+  "mark": {
+    "infinitive": "mark",
+    "past": "marked",
+    "pastPart": "marked",
+    "present": "marks",
+    "gerund": "marking"
+  },
+  "marry": {
+    "infinitive": "marry",
+    "past": "married",
+    "pastPart": "married",
+    "present": "marries",
+    "gerund": "marrying"
+  },
+  "mash": {
+    "infinitive": "mash",
+    "past": "mashed",
+    "pastPart": "mashed",
+    "present": "mashes",
+    "gerund": "mashing"
+  },
+  "match": {
+    "infinitive": "match",
+    "past": "matched",
+    "pastPart": "matched",
+    "present": "matches",
+    "gerund": "matching"
+  },
+  "matter": {
+    "infinitive": "matter",
+    "past": "mattered",
+    "pastPart": "mattered",
+    "present": "matters",
+    "gerund": "mattering"
+  },
+  "mean": {
+    "infinitive": "mean",
+    "past": "meant",
+    "pastPart": "meant",
+    "present": "means",
+    "gerund": "meaning"
+  },
+  "measure": {
+    "infinitive": "measure",
+    "past": "measured",
+    "pastPart": "measured",
+    "present": "measures",
+    "gerund": "measuring"
+  },
+  "meet": {
+    "infinitive": "meet",
+    "past": "met",
+    "pastPart": "met",
+    "present": "meets",
+    "gerund": "meeting"
+  },
+  "melt": {
+    "infinitive": "melt",
+    "past": "melted",
+    "pastPart": "melted",
+    "present": "melts",
+    "gerund": "melting"
+  },
+  "merge": {
+    "infinitive": "merge",
+    "past": "merged",
+    "pastPart": "merged",
+    "present": "merges",
+    "gerund": "merging"
+  },
+  "mew": {
+    "infinitive": "mew",
+    "past": "mewed",
+    "pastPart": "mewed",
+    "present": "mews",
+    "gerund": "mewing"
+  },
+  "migrate": {
+    "infinitive": "migrate",
+    "past": "migrated",
+    "pastPart": "migrated",
+    "present": "migrates",
+    "gerund": "migrating"
+  },
+  "milk": {
+    "infinitive": "milk",
+    "past": "milked",
+    "pastPart": "milked",
+    "present": "milks",
+    "gerund": "milking"
+  },
+  "mind": {
+    "infinitive": "mind",
+    "past": "minded",
+    "pastPart": "minded",
+    "present": "minds",
+    "gerund": "minding"
+  },
+  "mislead": {
+    "infinitive": "mislead",
+    "past": "misled",
+    "pastPart": "misled",
+    "present": "misleads",
+    "gerund": "misleading"
+  },
+  "miss": {
+    "infinitive": "miss",
+    "past": "missed",
+    "pastPart": "missed",
+    "present": "misses",
+    "gerund": "missing"
+  },
+  "mistake": {
+    "infinitive": "mistake",
+    "past": "mistook",
+    "pastPart": "mistaken",
+    "present": "mistakes",
+    "gerund": "mistaking"
+  },
+  "misuse": {
+    "infinitive": "misuse",
+    "past": "misused",
+    "pastPart": "misused",
+    "present": "misuses",
+    "gerund": "misusing"
+  },
+  "mix": {
+    "infinitive": "mix",
+    "past": "mixed",
+    "pastPart": "mixed",
+    "present": "mixes",
+    "gerund": "mixing"
+  },
+  "moan": {
+    "infinitive": "moan",
+    "past": "moaned",
+    "pastPart": "moaned",
+    "present": "moans",
+    "gerund": "moaning"
+  },
+  "modify": {
+    "infinitive": "modify",
+    "past": "modified",
+    "pastPart": "modified",
+    "present": "modifies",
+    "gerund": "modifying"
+  },
+  "moo": {
+    "infinitive": "moo",
+    "past": "mooed",
+    "pastPart": "mooed",
+    "present": "moos",
+    "gerund": "mooing"
+  },
+  "motivate": {
+    "infinitive": "motivate",
+    "past": "motivated",
+    "pastPart": "motivated",
+    "present": "motivates",
+    "gerund": "motivating"
+  },
+  "mould": {
+    "infinitive": "mould",
+    "past": "moulded",
+    "pastPart": "moulded",
+    "present": "moulds",
+    "gerund": "moulding"
+  },
+  "moult": {
+    "infinitive": "moult",
+    "past": "moulted",
+    "pastPart": "moulted",
+    "present": "moults",
+    "gerund": "moulting"
+  },
+  "move": {
+    "infinitive": "move",
+    "past": "moved",
+    "pastPart": "moved",
+    "present": "moves",
+    "gerund": "moving"
+  },
+  "mow": {
+    "infinitive": "mow",
+    "past": "mowed",
+    "pastPart": "mown",
+    "present": "mows",
+    "gerund": "mowing"
+  },
+  "multiply": {
+    "infinitive": "multiply",
+    "past": "multiplied",
+    "pastPart": "multiplied",
+    "present": "multiplies",
+    "gerund": "multiplying"
+  },
+  "murmur": {
+    "infinitive": "murmur",
+    "past": "murmured",
+    "pastPart": "murmured",
+    "present": "murmurs",
+    "gerund": "murmuring"
+  },
+  "nail": {
+    "infinitive": "nail",
+    "past": "nailed",
+    "pastPart": "nailed",
+    "present": "nails",
+    "gerund": "nailing"
+  },
+  "nap": {
+    "infinitive": "nap",
+    "past": "napped",
+    "pastPart": "napped",
+    "present": "naps",
+    "gerund": "napping"
+  },
+  "need": {
+    "infinitive": "need",
+    "past": "needed",
+    "pastPart": "needed",
+    "present": "needs",
+    "gerund": "needing"
+  },
+  "neglect": {
+    "infinitive": "neglect",
+    "past": "neglected",
+    "pastPart": "neglected",
+    "present": "neglects",
+    "gerund": "neglecting"
+  },
+  "nip": {
+    "infinitive": "nip",
+    "past": "nipped",
+    "pastPart": "nipped",
+    "present": "nips",
+    "gerund": "nipping"
+  },
+  "nod": {
+    "infinitive": "nod",
+    "past": "nodded",
+    "pastPart": "nodded",
+    "present": "nods",
+    "gerund": "nodding"
+  },
+  "note": {
+    "infinitive": "note",
+    "past": "noted",
+    "pastPart": "noted",
+    "present": "notes",
+    "gerund": "noting"
+  },
+  "notice": {
+    "infinitive": "notice",
+    "past": "noticed",
+    "pastPart": "noticed",
+    "present": "notices",
+    "gerund": "noticing"
+  },
+  "notify": {
+    "infinitive": "notify",
+    "past": "notified",
+    "pastPart": "notified",
+    "present": "notifies",
+    "gerund": "notifying"
+  },
+  "nourish": {
+    "infinitive": "nourish",
+    "past": "nourished",
+    "pastPart": "nourished",
+    "present": "nourishes",
+    "gerund": "nourishing"
+  },
+  "nurse": {
+    "infinitive": "nurse",
+    "past": "nursed",
+    "pastPart": "nursed",
+    "present": "nurses",
+    "gerund": "nursing"
+  },
+  "obey": {
+    "infinitive": "obey",
+    "past": "obeyed",
+    "pastPart": "obeyed",
+    "present": "obeys",
+    "gerund": "obeying"
+  },
+  "oblige": {
+    "infinitive": "oblige",
+    "past": "obliged",
+    "pastPart": "obliged",
+    "present": "obliges",
+    "gerund": "obliging"
+  },
+  "observe": {
+    "infinitive": "observe",
+    "past": "observed",
+    "pastPart": "observed",
+    "present": "observes",
+    "gerund": "observing"
+  },
+  "obstruct": {
+    "infinitive": "obstruct",
+    "past": "obstructed",
+    "pastPart": "obstructed",
+    "present": "obstructs",
+    "gerund": "obstructing"
+  },
+  "obtain": {
+    "infinitive": "obtain",
+    "past": "obtained",
+    "pastPart": "obtained",
+    "present": "obtains",
+    "gerund": "obtaining"
+  },
+  "occupy": {
+    "infinitive": "occupy",
+    "past": "occupied",
+    "pastPart": "occupied",
+    "present": "occupies",
+    "gerund": "occupying"
+  },
+  "occur": {
+    "infinitive": "occur",
+    "past": "occurred",
+    "pastPart": "occurred",
+    "present": "occurs",
+    "gerund": "occurring"
+  },
+  "offer": {
+    "infinitive": "offer",
+    "past": "offered",
+    "pastPart": "offered",
+    "present": "offers",
+    "gerund": "offering"
+  },
+  "offset": {
+    "infinitive": "offset",
+    "past": "offset",
+    "pastPart": "offset",
+    "present": "offsets",
+    "gerund": "offsetting"
+  },
+  "omit": {
+    "infinitive": "omit",
+    "past": "omitted",
+    "pastPart": "omitted",
+    "present": "omits",
+    "gerund": "omitting"
+  },
+  "ooze": {
+    "infinitive": "ooze",
+    "past": "oozed",
+    "pastPart": "oozed",
+    "present": "oozes",
+    "gerund": "oozing"
+  },
+  "open": {
+    "infinitive": "open",
+    "past": "opened",
+    "pastPart": "opened",
+    "present": "opens",
+    "gerund": "opening"
+  },
+  "operate": {
+    "infinitive": "operate",
+    "past": "operated",
+    "pastPart": "operated",
+    "present": "operates",
+    "gerund": "operating"
+  },
+  "opine": {
+    "infinitive": "opine",
+    "past": "opined",
+    "pastPart": "opined",
+    "present": "opines",
+    "gerund": "opining"
+  },
+  "oppress": {
+    "infinitive": "oppress",
+    "past": "oppressed",
+    "pastPart": "oppressed",
+    "present": "oppresses",
+    "gerund": "oppressing"
+  },
+  "opt": {
+    "infinitive": "opt",
+    "past": "opted",
+    "pastPart": "opted",
+    "present": "opts",
+    "gerund": "opting"
+  },
+  "optimize": {
+    "infinitive": "optimize",
+    "past": "optimized",
+    "pastPart": "optimized",
+    "present": "optimizes",
+    "gerund": "optimizing"
+  },
+  "order": {
+    "infinitive": "order",
+    "past": "ordered",
+    "pastPart": "ordered",
+    "present": "orders",
+    "gerund": "ordering"
+  },
+  "organize": {
+    "infinitive": "organize",
+    "past": "organized",
+    "pastPart": "organized",
+    "present": "organizes",
+    "gerund": "organizing"
+  },
+  "originate": {
+    "infinitive": "originate",
+    "past": "originated",
+    "pastPart": "originated",
+    "present": "originates",
+    "gerund": "originating"
+  },
+  "output": {
+    "infinitive": "output",
+    "past": "output",
+    "pastPart": "output",
+    "present": "outputs",
+    "gerund": "outputting"
+  },
+  "overflow": {
+    "infinitive": "overflow",
+    "past": "overflowed",
+    "pastPart": "overflowed",
+    "present": "overflows",
+    "gerund": "overflowing"
+  },
+  "overtake": {
+    "infinitive": "overtake",
+    "past": "overtook",
+    "pastPart": "overtaken",
+    "present": "overtakes",
+    "gerund": "overtaking"
+  },
+  "owe": {
+    "infinitive": "owe",
+    "past": "owed",
+    "pastPart": "owed",
+    "present": "owes",
+    "gerund": "owing"
+  },
+  "own": {
+    "infinitive": "own",
+    "past": "owned",
+    "pastPart": "owned",
+    "present": "owns",
+    "gerund": "owning"
+  },
+  "pacify": {
+    "infinitive": "pacify",
+    "past": "pacified",
+    "pastPart": "pacified",
+    "present": "pacifies",
+    "gerund": "pacifying"
+  },
+  "paint": {
+    "infinitive": "paint",
+    "past": "painted",
+    "pastPart": "painted",
+    "present": "paints",
+    "gerund": "painting"
+  },
+  "pardon": {
+    "infinitive": "pardon",
+    "past": "pardoned",
+    "pastPart": "pardoned",
+    "present": "pardons",
+    "gerund": "pardoning"
+  },
+  "part": {
+    "infinitive": "part",
+    "past": "parted",
+    "pastPart": "parted",
+    "present": "parts",
+    "gerund": "parting"
+  },
+  "partake": {
+    "infinitive": "partake",
+    "past": "partook",
+    "pastPart": "partaken",
+    "present": "partakes",
+    "gerund": "partaking"
+  },
+  "participate": {
+    "infinitive": "participate",
+    "past": "participated",
+    "pastPart": "participated",
+    "present": "participates",
+    "gerund": "participating"
+  },
+  "pass": {
+    "infinitive": "pass",
+    "past": "passed",
+    "pastPart": "passed",
+    "present": "passes",
+    "gerund": "passing"
+  },
+  "paste": {
+    "infinitive": "paste",
+    "past": "pasted",
+    "pastPart": "pasted",
+    "present": "pastes",
+    "gerund": "pasting"
+  },
+  "pat": {
+    "infinitive": "pat",
+    "past": "patted",
+    "pastPart": "patted",
+    "present": "pats",
+    "gerund": "patting"
+  },
+  "patch": {
+    "infinitive": "patch",
+    "past": "patched",
+    "pastPart": "patched",
+    "present": "patches",
+    "gerund": "patching"
+  },
+  "pause": {
+    "infinitive": "pause",
+    "past": "paused",
+    "pastPart": "paused",
+    "present": "pauses",
+    "gerund": "pausing"
+  },
+  "pay": {
+    "infinitive": "pay",
+    "past": "paid",
+    "pastPart": "paid",
+    "present": "pays",
+    "gerund": "paying"
+  },
+  "peep": {
+    "infinitive": "peep",
+    "past": "peeped",
+    "pastPart": "peeped",
+    "present": "peeps",
+    "gerund": "peeping"
+  },
+  "perish": {
+    "infinitive": "perish",
+    "past": "perished",
+    "pastPart": "perished",
+    "present": "perishes",
+    "gerund": "perishing"
+  },
+  "permit": {
+    "infinitive": "permit",
+    "past": "permitted",
+    "pastPart": "permitted",
+    "present": "permits",
+    "gerund": "permitting"
+  },
+  "persuade": {
+    "infinitive": "persuade",
+    "past": "persuaded",
+    "pastPart": "persuaded",
+    "present": "persuades",
+    "gerund": "persuading"
+  },
+  "phone": {
+    "infinitive": "phone",
+    "past": "phoned",
+    "pastPart": "phoned",
+    "present": "phones",
+    "gerund": "phoning"
+  },
+  "pick":{
+    "infinitive": "pick",
+    "past": "picked",
+    "pastPart": "picked",
+    "present": "picks",
+    "gerund": "picking"
+  },
+  "place": {
+    "infinitive": "place",
+    "past": "placed",
+    "pastPart": "placed",
+    "present": "places",
+    "gerund": "placing"
+  },
+  "plan": {
+    "infinitive": "plan",
+    "past": "planned",
+    "pastPart": "planned",
+    "present": "plans",
+    "gerund": "planning"
+  },
+  "play": {
+    "infinitive": "play",
+    "past": "played",
+    "pastPart": "played",
+    "present": "plays",
+    "gerund": "playing"
+  },
+  "plead": {
+    "infinitive": "plead",
+    "past": "pled",
+    "pastPart": "pled",
+    "present": "pleads",
+    "gerund": "pleading"
+  },
+  "please": {
+    "infinitive": "please",
+    "past": "pleased",
+    "pastPart": "pleased",
+    "present": "pleases",
+    "gerund": "pleasing"
+  },
+  "plod": {
+    "infinitive": "plod",
+    "past": "plodded",
+    "pastPart": "plodded",
+    "present": "plods",
+    "gerund": "plodding"
+  },
+  "plot": {
+    "infinitive": "plot",
+    "past": "plotted",
+    "pastPart": "plotted",
+    "present": "plots",
+    "gerund": "plotting"
+  },
+  "pluck": {
+    "infinitive": "pluck",
+    "past": "plucked",
+    "pastPart": "plucked",
+    "present": "plucks",
+    "gerund": "plucking"
+  },
+  "ply": {
+    "infinitive": "ply",
+    "past": "plied",
+    "pastPart": "plied",
+    "present": "plies",
+    "gerund": "plying"
+  },
+  "point": {
+    "infinitive": "point",
+    "past": "pointed",
+    "pastPart": "pointed",
+    "present": "points",
+    "gerund": "pointing"
+  },
+  "polish": {
+    "infinitive": "polish",
+    "past": "polished",
+    "pastPart": "polished",
+    "present": "polishes",
+    "gerund": "polishing"
+  },
+  "pollute": {
+    "infinitive": "pollute",
+    "past": "polluted",
+    "pastPart": "polluted",
+    "present": "pollutes",
+    "gerund": "polluting"
+  },
+  "ponder": {
+    "infinitive": "ponder",
+    "past": "pondered",
+    "pastPart": "pondered",
+    "present": "ponders",
+    "gerund": "pondering"
+  },
+  "pour": {
+    "infinitive": "pour",
+    "past": "poured",
+    "pastPart": "poured",
+    "present": "pours",
+    "gerund": "pouring"
+  },
+  "pout": {
+    "infinitive": "pout",
+    "past": "pouted",
+    "pastPart": "pouted",
+    "present": "pouts",
+    "gerund": "pouting"
+  },
+  "practise": {
+    "infinitive": "practise",
+    "past": "practised",
+    "pastPart": "practised",
+    "present": "practises",
+    "gerund": "practising"
+  },
+  "praise": {
+    "infinitive": "praise",
+    "past": "praised",
+    "pastPart": "praised",
+    "present": "praises",
+    "gerund": "praising"
+  },
+  "pray": {
+    "infinitive": "pray",
+    "past": "prayed",
+    "pastPart": "prayed",
+    "present": "prays",
+    "gerund": "praying"
+  },
+  "preach": {
+    "infinitive": "preach",
+    "past": "preached",
+    "pastPart": "preached",
+    "present": "preaches",
+    "gerund": "preaching"
+  },
+  "prefer": {
+    "infinitive": "prefer",
+    "past": "preferred",
+    "pastPart": "preferred",
+    "present": "prefers",
+    "gerund": "preferring"
+  },
+  "prepare": {
+    "infinitive": "prepare",
+    "past": "prepared",
+    "pastPart": "prepared",
+    "present": "prepares",
+    "gerund": "preparing"
+  },
+  "prescribe": {
+    "infinitive": "prescribe",
+    "past": "prescribed",
+    "pastPart": "prescribed",
+    "present": "prescribes",
+    "gerund": "prescribing"
+  },
+  "present": {
+    "infinitive": "present",
+    "past": "presented",
+    "pastPart": "presented",
+    "present": "presents",
+    "gerund": "presenting"
+  },
+  "preserve": {
+    "infinitive": "preserve",
+    "past": "preserved",
+    "pastPart": "preserved",
+    "present": "preserves",
+    "gerund": "preserving"
+  },
+  "preset": {
+    "infinitive": "preset",
+    "past": "preset",
+    "pastPart": "preset",
+    "present": "presets",
+    "gerund": "presetting"
+  },
+  "preside": {
+    "infinitive": "preside",
+    "past": "presided",
+    "pastPart": "presided",
+    "present": "presides",
+    "gerund": "presiding"
+  },
+  "press": {
+    "infinitive": "press",
+    "past": "pressed",
+    "pastPart": "pressed",
+    "present": "presses",
+    "gerund": "pressing"
+  },
+  "pretend": {
+    "infinitive": "pretend",
+    "past": "pretended",
+    "pastPart": "pretended",
+    "present": "pretends",
+    "gerund": "pretending"
+  },
+  "prevent": {
+    "infinitive": "prevent",
+    "past": "prevented",
+    "pastPart": "prevented",
+    "present": "prevents",
+    "gerund": "preventing"
+  },
+  "print": {
+    "infinitive": "print",
+    "past": "printed",
+    "pastPart": "printed",
+    "present": "prints",
+    "gerund": "printing"
+  },
+  "proceed": {
+    "infinitive": "proceed",
+    "past": "proceeded",
+    "pastPart": "proceeded",
+    "present": "proceeds",
+    "gerund": "proceeding"
+  },
+  "produce": {
+    "infinitive": "produce",
+    "past": "produced",
+    "pastPart": "produced",
+    "present": "produces",
+    "gerund": "producing"
+  },
+  "progress": {
+    "infinitive": "progress",
+    "past": "progressed",
+    "pastPart": "progressed",
+    "present": "progresses",
+    "gerund": "progressing"
+  },
+  "prohibit": {
+    "infinitive": "prohibit",
+    "past": "prohibited",
+    "pastPart": "prohibited",
+    "present": "prohibits",
+    "gerund": "prohibiting"
+  },
+  "promise": {
+    "infinitive": "promise",
+    "past": "promised",
+    "pastPart": "promised",
+    "present": "promises",
+    "gerund": "promising"
+  },
+  "propose": {
+    "infinitive": "propose",
+    "past": "proposed",
+    "pastPart": "proposed",
+    "present": "proposes",
+    "gerund": "proposing"
+  },
+  "prosecute": {
+    "infinitive": "prosecute",
+    "past": "prosecuted",
+    "pastPart": "prosecuted",
+    "present": "prosecutes",
+    "gerund": "prosecuting"
+  },
+  "protect": {
+    "infinitive": "protect",
+    "past": "protected",
+    "pastPart": "protected",
+    "present": "protects",
+    "gerund": "protecting"
+  },
+  "prove": {
+    "infinitive": "prove",
+    "past": "proved",
+    "pastPart": "proved",
+    "present": "proves",
+    "gerund": "proving"
+  },
+  "provide": {
+    "infinitive": "provide",
+    "past": "provided",
+    "pastPart": "provided",
+    "present": "provides",
+    "gerund": "providing"
+  },
+  "pull": {
+    "infinitive": "pull",
+    "past": "pulled",
+    "pastPart": "pulled",
+    "present": "pulls",
+    "gerund": "pulling"
+  },
+  "punish": {
+    "infinitive": "punish",
+    "past": "punished",
+    "pastPart": "punished",
+    "present": "punishes",
+    "gerund": "punishing"
+  },
+  "purify": {
+    "infinitive": "purify",
+    "past": "purified",
+    "pastPart": "purified",
+    "present": "purifies",
+    "gerund": "purifying"
+  },
+  "push": {
+    "infinitive": "push",
+    "past": "pushed",
+    "pastPart": "pushed",
+    "present": "pushes",
+    "gerund": "pushing"
+  },
+  "put": {
+    "infinitive": "put",
+    "past": "put",
+    "pastPart": "put",
+    "present": "puts",
+    "gerund": "putting"
+  },
+  "qualify": {
+    "infinitive": "qualify",
+    "past": "qualified",
+    "pastPart": "qualified",
+    "present": "qualifies",
+    "gerund": "qualifying"
+  },
+  "quarrel": {
+    "infinitive": "quarrel",
+    "past": "quarrelled",
+    "pastPart": "quarrelled",
+    "present": "quarrels",
+    "gerund": "quarrelling"
+  },
+  "question": {
+    "infinitive": "question",
+    "past": "questioned",
+    "pastPart": "questioned",
+    "present": "questions",
+    "gerund": "questioning"
+  },
+  "quit": {
+    "infinitive": "quit",
+    "past": "quit",
+    "pastPart": "quit",
+    "present": "quits",
+    "gerund": "quitting"
+  },
+  "race": {
+    "infinitive": "race",
+    "past": "raced",
+    "pastPart": "raced",
+    "present": "races",
+    "gerund": "racing"
+  },
+  "rain": {
+    "infinitive": "rain",
+    "past": "rained",
+    "pastPart": "rained",
+    "present": "rains",
+    "gerund": "raining"
+  },
+  "rattle": {
+    "infinitive": "rattle",
+    "past": "rattled",
+    "pastPart": "rattled",
+    "present": "rattles",
+    "gerund": "rattling"
+  },
+  "reach": {
+    "infinitive": "reach",
+    "past": "reached",
+    "pastPart": "reached",
+    "present": "reaches",
+    "gerund": "reaching"
+  },
+  "read": {
+    "infinitive": "read",
+    "past": "read",
+    "pastPart": "read",
+    "present": "reads",
+    "gerund": "reading"
+  },
+  "realize": {
+    "infinitive": "realize",
+    "past": "realized",
+    "pastPart": "realized",
+    "present": "realizes",
+    "gerund": "realizing"
+  },
+  "rebuild": {
+    "infinitive": "rebuild",
+    "past": "rebuilt",
+    "pastPart": "rebuilt",
+    "present": "rebuilds",
+    "gerund": "rebuilding"
+  },
+  "recall": {
+    "infinitive": "recall",
+    "past": "recalled",
+    "pastPart": "recalled",
+    "present": "recalls",
+    "gerund": "recalling"
+  },
+  "recast": {
+    "infinitive": "recast",
+    "past": "recast",
+    "pastPart": "recast",
+    "present": "recasts",
+    "gerund": "recasting"
+  },
+  "receive": {
+    "infinitive": "receive",
+    "past": "received",
+    "pastPart": "received",
+    "present": "receives",
+    "gerund": "receiving"
+  },
+  "recite": {
+    "infinitive": "recite",
+    "past": "recited",
+    "pastPart": "recited",
+    "present": "recites",
+    "gerund": "reciting"
+  },
+  "recognize": {
+    "infinitive": "recognize",
+    "past": "recognized",
+    "pastPart": "recognized",
+    "present": "recognizes",
+    "gerund": "recognizing"
+  },
+  "recollect": {
+    "infinitive": "recollect",
+    "past": "recollected",
+    "pastPart": "recollected",
+    "present": "recollects",
+    "gerund": "recollecting"
+  },
+  "recur": {
+    "infinitive": "recur",
+    "past": "recurred",
+    "pastPart": "recurred",
+    "present": "recurs",
+    "gerund": "recurring"
+  },
+  "redo": {
+    "infinitive": "redo",
+    "past": "redid",
+    "pastPart": "redone",
+    "present": "redoes",
+    "gerund": "redoing"
+  },
+  "reduce": {
+    "infinitive": "reduce",
+    "past": "reduced",
+    "pastPart": "reduced",
+    "present": "reduces",
+    "gerund": "reducing"
+  },
+  "refer": {
+    "infinitive": "refer",
+    "past": "referred",
+    "pastPart": "referred",
+    "present": "refers",
+    "gerund": "referring"
+  },
+  "reflect": {
+    "infinitive": "reflect",
+    "past": "reflected",
+    "pastPart": "reflected",
+    "present": "reflects",
+    "gerund": "reflecting"
+  },
+  "refuse": {
+    "infinitive": "refuse",
+    "past": "refused",
+    "pastPart": "refused",
+    "present": "refuses",
+    "gerund": "refusing"
+  },
+  "regard": {
+    "infinitive": "regard",
+    "past": "regarded",
+    "pastPart": "regarded",
+    "present": "regards",
+    "gerund": "regarding"
+  },
+  "regret": {
+    "infinitive": "regret",
+    "past": "regretted",
+    "pastPart": "regretted",
+    "present": "regrets",
+    "gerund": "regretting"
+  },
+  "relate": {
+    "infinitive": "relate",
+    "past": "related",
+    "pastPart": "related",
+    "present": "relates",
+    "gerund": "relating"
+  },
+  "relax": {
+    "infinitive": "relax",
+    "past": "relaxed",
+    "pastPart": "relaxed",
+    "present": "relaxes",
+    "gerund": "relaxing"
+  },
+  "rely": {
+    "infinitive": "rely",
+    "past": "relied",
+    "pastPart": "relied",
+    "present": "relies",
+    "gerund": "relying"
+  },
+  "remain": {
+    "infinitive": "remain",
+    "past": "remained",
+    "pastPart": "remained",
+    "present": "remains",
+    "gerund": "remaining"
+  },
+  "remake": {
+    "infinitive": "remake",
+    "past": "remade",
+    "pastPart": "remade",
+    "present": "remakes",
+    "gerund": "remaking"
+  },
+  "remove": {
+    "infinitive": "remove",
+    "past": "removed",
+    "pastPart": "removed",
+    "present": "removes",
+    "gerund": "removing"
+  },
+  "rend": {
+    "infinitive": "rend",
+    "past": "rent",
+    "pastPart": "rent",
+    "present": "rends",
+    "gerund": "rending"
+  },
+  "renew": {
+    "infinitive": "renew",
+    "past": "renewed",
+    "pastPart": "renewed",
+    "present": "renews",
+    "gerund": "renewing"
+  },
+  "renounce": {
+    "infinitive": "renounce",
+    "past": "renounced",
+    "pastPart": "renounced",
+    "present": "renounces",
+    "gerund": "renouncing"
+  },
+  "repair": {
+    "infinitive": "repair",
+    "past": "repaired",
+    "pastPart": "repaired",
+    "present": "repairs",
+    "gerund": "repairing"
+  },
+  "repeat": {
+    "infinitive": "repeat",
+    "past": "repeated",
+    "pastPart": "repeated",
+    "present": "repeats",
+    "gerund": "repeating"
+  },
+  "replace": {
+    "infinitive": "replace",
+    "past": "replaced",
+    "pastPart": "replaced",
+    "present": "replaces",
+    "gerund": "replacing"
+  },
+  "reply": {
+    "infinitive": "reply",
+    "past": "replied",
+    "pastPart": "replied",
+    "present": "replies",
+    "gerund": "replying"
+  },
+  "report": {
+    "infinitive": "report",
+    "past": "reported",
+    "pastPart": "reported",
+    "present": "reports",
+    "gerund": "reporting"
+  },
+  "request": {
+    "infinitive": "request",
+    "past": "requested",
+    "pastPart": "requested",
+    "present": "requests",
+    "gerund": "requesting"
+  },
+  "resell": {
+    "infinitive": "resell",
+    "past": "resold",
+    "pastPart": "resold",
+    "present": "resells",
+    "gerund": "reselling"
+  },
+  "resemble": {
+    "infinitive": "resemble",
+    "past": "resembled",
+    "pastPart": "resembled",
+    "present": "resembles",
+    "gerund": "resembling"
+  },
+  "reset": {
+    "infinitive": "reset",
+    "past": "reset",
+    "pastPart": "reset",
+    "present": "resets",
+    "gerund": "resetting"
+  },
+  "resist": {
+    "infinitive": "resist",
+    "past": "resisted",
+    "pastPart": "resisted",
+    "present": "resists",
+    "gerund": "resisting"
+  },
+  "resolve": {
+    "infinitive": "resolve",
+    "past": "resolved",
+    "pastPart": "resolved",
+    "present": "resolves",
+    "gerund": "resolving"
+  },
+  "respect": {
+    "infinitive": "respect",
+    "past": "respected",
+    "pastPart": "respected",
+    "present": "respects",
+    "gerund": "respecting"
+  },
+  "rest": {
+    "infinitive": "rest",
+    "past": "rested",
+    "pastPart": "rested",
+    "present": "rests",
+    "gerund": "resting"
+  },
+  "restrain": {
+    "infinitive": "restrain",
+    "past": "restrained",
+    "pastPart": "restrained",
+    "present": "restrains",
+    "gerund": "restraining"
+  },
+  "retain": {
+    "infinitive": "retain",
+    "past": "retained",
+    "pastPart": "retained",
+    "present": "retains",
+    "gerund": "retaining"
+  },
+  "retch": {
+    "infinitive": "retch",
+    "past": "retched",
+    "pastPart": "retched",
+    "present": "retches",
+    "gerund": "retching"
+  },
+  "retire": {
+    "infinitive": "retire",
+    "past": "retired",
+    "pastPart": "retired",
+    "present": "retires",
+    "gerund": "retiring"
+  },
+  "return": {
+    "infinitive": "return",
+    "past": "returned",
+    "pastPart": "returned",
+    "present": "returns",
+    "gerund": "returning"
+  },
+  "reuse": {
+    "infinitive": "reuse",
+    "past": "reused",
+    "pastPart": "reused",
+    "present": "reuses",
+    "gerund": "reusing"
+  },
+  "review": {
+    "infinitive": "review",
+    "past": "reviewed",
+    "pastPart": "reviewed",
+    "present": "reviews",
+    "gerund": "reviewing"
+  },
+  "rewind": {
+    "infinitive": "rewind",
+    "past": "rewound",
+    "pastPart": "rewound",
+    "present": "rewinds",
+    "gerund": "rewinding"
+  },
+  "rid": {
+    "infinitive": "rid",
+    "past": "rid",
+    "pastPart": "rid",
+    "present": "rids",
+    "gerund": "ridding"
+  },
+  "ride": {
+    "infinitive": "ride",
+    "past": "rode",
+    "pastPart": "ridden",
+    "present": "rides",
+    "gerund": "riding"
+  },
+  "ring": {
+    "infinitive": "ring",
+    "past": "rang",
+    "pastPart": "rung",
+    "present": "rings",
+    "gerund": "ringing"
+  },
+  "rise": {
+    "infinitive": "rise",
+    "past": "rose",
+    "pastPart": "risen",
+    "present": "rises",
+    "gerund": "rising"
+  },
+  "roar": {
+    "infinitive": "roar",
+    "past": "roared",
+    "pastPart": "roared",
+    "present": "roars",
+    "gerund": "roaring"
+  },
+  "rob": {
+    "infinitive": "rob",
+    "past": "robbed",
+    "pastPart": "robbed",
+    "present": "robs",
+    "gerund": "robbing"
+  },
+  "roll": {
+    "infinitive": "roll",
+    "past": "rolled",
+    "pastPart": "rolled",
+    "present": "rolls",
+    "gerund": "rolling"
+  },
+  "rot": {
+    "infinitive": "rot",
+    "past": "rotted",
+    "pastPart": "rotted",
+    "present": "rots",
+    "gerund": "rotting"
+  },
+  "rub": {
+    "infinitive": "rub",
+    "past": "rubbed",
+    "pastPart": "rubbed",
+    "present": "rubs",
+    "gerund": "rubbing"
+  },
+  "rule": {
+    "infinitive": "rule",
+    "past": "ruled",
+    "pastPart": "ruled",
+    "present": "rules",
+    "gerund": "ruling"
+  },
+  "run": {
+    "infinitive": "run",
+    "past": "ran",
+    "pastPart": "run",
+    "present": "runs",
+    "gerund": "running"
+  },
+  "rush": {
+    "infinitive": "rush",
+    "past": "rushed",
+    "pastPart": "rushed",
+    "present": "rushes",
+    "gerund": "rushing"
+  },
+  "sabotage": {
+    "infinitive": "sabotage",
+    "past": "sabotaged",
+    "pastPart": "sabotaged",
+    "present": "sabotages",
+    "gerund": "sabotaging"
+  },
+  "sack": {
+    "infinitive": "sack",
+    "past": "sacked",
+    "pastPart": "sacked",
+    "present": "sacks",
+    "gerund": "sacking"
+  },
+  "sacrifice": {
+    "infinitive": "sacrifice",
+    "past": "sacrificed",
+    "pastPart": "sacrificed",
+    "present": "sacrifices",
+    "gerund": "sacrificing"
+  },
+  "sadden": {
+    "infinitive": "sadden",
+    "past": "saddened",
+    "pastPart": "saddened",
+    "present": "saddens",
+    "gerund": "saddening"
+  },
+  "saddle": {
+    "infinitive": "saddle",
+    "past": "saddled",
+    "pastPart": "saddled",
+    "present": "saddles",
+    "gerund": "saddling"
+  },
+  "sag": {
+    "infinitive": "sag",
+    "past": "sagged",
+    "pastPart": "sagged",
+    "present": "sags",
+    "gerund": "sagging"
+  },
+  "sail": {
+    "infinitive": "sail",
+    "past": "sailed",
+    "pastPart": "sailed",
+    "present": "sails",
+    "gerund": "sailing"
+  },
+  "sally": {
+    "infinitive": "sally",
+    "past": "sallied",
+    "pastPart": "sallied",
+    "present": "sallies",
+    "gerund": "sallying"
+  },
+  "salute": {
+    "infinitive": "salute",
+    "past": "saluted",
+    "pastPart": "saluted",
+    "present": "salutes",
+    "gerund": "saluting"
+  },
+  "salvage": {
+    "infinitive": "salvage",
+    "past": "salvaged",
+    "pastPart": "salvaged",
+    "present": "salvages",
+    "gerund": "salvaging"
+  },
+  "salve": {
+    "infinitive": "salve",
+    "past": "salved",
+    "pastPart": "salved",
+    "present": "salves",
+    "gerund": "salving"
+  },
+  "sample": {
+    "infinitive": "sample",
+    "past": "sampled",
+    "pastPart": "sampled",
+    "present": "samples",
+    "gerund": "sampling"
+  },
+  "sanctify": {
+    "infinitive": "sanctify",
+    "past": "sanctified",
+    "pastPart": "sanctified",
+    "present": "sanctifies",
+    "gerund": "sanctifying"
+  },
+  "sanction": {
+    "infinitive": "sanction",
+    "past": "sanctioned",
+    "pastPart": "sanctioned",
+    "present": "sanctions",
+    "gerund": "sanctioning"
+  },
+  "sap": {
+    "infinitive": "sap",
+    "past": "sapped",
+    "pastPart": "sapped",
+    "present": "saps",
+    "gerund": "sapping"
+  },
+  "saponify": {
+    "infinitive": "saponify",
+    "past": "saponified",
+    "pastPart": "saponified",
+    "present": "saponifies",
+    "gerund": "saponifying"
+  },
+  "sash": {
+    "infinitive": "sash",
+    "past": "sashed",
+    "pastPart": "sashed",
+    "present": "sashes",
+    "gerund": "sashing"
+  },
+  "sashay": {
+    "infinitive": "sashay",
+    "past": "sashayed",
+    "pastPart": "sashayed",
+    "present": "sashays",
+    "gerund": "sashaying"
+  },
+  "sass": {
+    "infinitive": "sass",
+    "past": "sassed",
+    "pastPart": "sassed",
+    "present": "sasses",
+    "gerund": "sassing"
+  },
+  "sate": {
+    "infinitive": "sate",
+    "past": "sated",
+    "pastPart": "sated",
+    "present": "sates",
+    "gerund": "sating"
+  },
+  "satiate": {
+    "infinitive": "satiate",
+    "past": "satiated",
+    "pastPart": "satiated",
+    "present": "satiates",
+    "gerund": "satiating"
+  },
+  "satirise": {
+    "infinitive": "satirise",
+    "past": "satirised",
+    "pastPart": "satirised",
+    "present": "satirises",
+    "gerund": "satirising"
+  },
+  "satisfy": {
+    "infinitive": "satisfy",
+    "past": "satisfied",
+    "pastPart": "satisfied",
+    "present": "satisfies",
+    "gerund": "satisfying"
+  },
+  "saturate": {
+    "infinitive": "saturate",
+    "past": "saturated",
+    "pastPart": "saturated",
+    "present": "saturates",
+    "gerund": "saturating"
+  },
+  "saunter": {
+    "infinitive": "saunter",
+    "past": "sauntered",
+    "pastPart": "sauntered",
+    "present": "saunters",
+    "gerund": "sauntering"
+  },
+  "save": {
+    "infinitive": "save",
+    "past": "saved",
+    "pastPart": "saved",
+    "present": "saves",
+    "gerund": "saving"
+  },
+  "savor": {
+    "infinitive": "savor",
+    "past": "savored",
+    "pastPart": "savored",
+    "present": "savors",
+    "gerund": "savoring"
+  },
+  "savvy": {
+    "infinitive": "savvy",
+    "past": "savvied",
+    "pastPart": "savvied",
+    "present": "savvies",
+    "gerund": "savvying"
+  },
+  "saw": {
+    "infinitive": "saw",
+    "past": "sawed",
+    "pastPart": "sawn",
+    "present": "saws",
+    "gerund": "sawing"
+  },
+  "say": {
+    "infinitive": "say",
+    "past": "said",
+    "pastPart": "said",
+    "present": "says",
+    "gerund": "saying"
+  },
+  "scab": {
+    "infinitive": "scab",
+    "past": "scabbed",
+    "pastPart": "scabbed",
+    "present": "scabs",
+    "gerund": "scabbing"
+  },
+  "scabble": {
+    "infinitive": "scabble",
+    "past": "scabbled",
+    "pastPart": "scabbled",
+    "present": "scabbles",
+    "gerund": "scabbling"
+  },
+  "scald": {
+    "infinitive": "scald",
+    "past": "scalded",
+    "pastPart": "scalded",
+    "present": "scalds",
+    "gerund": "scalding"
+  },
+  "scale": {
+    "infinitive": "scale",
+    "past": "scaled",
+    "pastPart": "scaled",
+    "present": "scales",
+    "gerund": "scaling"
+  },
+  "scam": {
+    "infinitive": "scam",
+    "past": "scammed",
+    "pastPart": "scammed",
+    "present": "scams",
+    "gerund": "scamming"
+  },
+  "scan": {
+    "infinitive": "scan",
+    "past": "scanned",
+    "pastPart": "scanned",
+    "present": "scans",
+    "gerund": "scanning"
+  },
+  "scant": {
+    "infinitive": "scant",
+    "past": "scanted",
+    "pastPart": "scanted",
+    "present": "scants",
+    "gerund": "scanting"
+  },
+  "scar": {
+    "infinitive": "scar",
+    "past": "scarred",
+    "pastPart": "scarred",
+    "present": "scars",
+    "gerund": "scarring"
+  },
+  "scare": {
+    "infinitive": "scare",
+    "past": "scared",
+    "pastPart": "scared",
+    "present": "scares",
+    "gerund": "scaring"
+  },
+  "scarify": {
+    "infinitive": "scarify",
+    "past": "scarified",
+    "pastPart": "scarified",
+    "present": "scarifies",
+    "gerund": "scarifying"
+  },
+  "scarp": {
+    "infinitive": "scarp",
+    "past": "scarped",
+    "pastPart": "scarped",
+    "present": "scarps",
+    "gerund": "scarping"
+  },
+  "scat": {
+    "infinitive": "scat",
+    "past": "scatted",
+    "pastPart": "scatted",
+    "present": "scats",
+    "gerund": "scatting"
+  },
+  "scatter": {
+    "infinitive": "scatter",
+    "past": "scattered",
+    "pastPart": "scattered",
+    "present": "scatters",
+    "gerund": "scattering"
+  },
+  "scold": {
+    "infinitive": "scold",
+    "past": "scolded",
+    "pastPart": "scolded",
+    "present": "scolds",
+    "gerund": "scolding"
+  },
+  "scorch": {
+    "infinitive": "scorch",
+    "past": "scorched",
+    "pastPart": "scorched",
+    "present": "scorches",
+    "gerund": "scorching"
+  },
+  "scowl": {
+    "infinitive": "scowl",
+    "past": "scowled",
+    "pastPart": "scowled",
+    "present": "scowls",
+    "gerund": "scowling"
+  },
+  "scrawl": {
+    "infinitive": "scrawl",
+    "past": "scrawled",
+    "pastPart": "scrawled",
+    "present": "scrawls",
+    "gerund": "scrawling"
+  },
+  "scream": {
+    "infinitive": "scream",
+    "past": "screamed",
+    "pastPart": "screamed",
+    "present": "screams",
+    "gerund": "screaming"
+  },
+  "screw": {
+    "infinitive": "screw",
+    "past": "screwed",
+    "pastPart": "screwed",
+    "present": "screws",
+    "gerund": "screwing"
+  },
+  "scrub": {
+    "infinitive": "scrub",
+    "past": "scrubbed",
+    "pastPart": "scrubbed",
+    "present": "scrubs",
+    "gerund": "scrubbing"
+  },
+  "search": {
+    "infinitive": "search",
+    "past": "searched",
+    "pastPart": "searched",
+    "present": "searches",
+    "gerund": "searching"
+  },
+  "seat": {
+    "infinitive": "seat",
+    "past": "seated",
+    "pastPart": "seated",
+    "present": "seats",
+    "gerund": "seating"
+  },
+  "secure": {
+    "infinitive": "secure",
+    "past": "secured",
+    "pastPart": "secured",
+    "present": "secures",
+    "gerund": "securing"
+  },
+  "see": {
+    "infinitive": "see",
+    "past": "saw",
+    "pastPart": "seen",
+    "present": "sees",
+    "gerund": "seeing"
+  },
+  "seek": {
+    "infinitive": "seek",
+    "past": "sought",
+    "pastPart": "sought",
+    "present": "seeks",
+    "gerund": "seeking"
+  },
+  "seem": {
+    "infinitive": "seem",
+    "past": "seemed",
+    "pastPart": "seemed",
+    "present": "seems",
+    "gerund": "seeming"
+  },
+  "seize": {
+    "infinitive": "seize",
+    "past": "seized",
+    "pastPart": "seized",
+    "present": "seizes",
+    "gerund": "seizing"
+  },
+  "select": {
+    "infinitive": "select",
+    "past": "selected",
+    "pastPart": "selected",
+    "present": "selects",
+    "gerund": "selecting"
+  },
+  "sell": {
+    "infinitive": "sell",
+    "past": "sold",
+    "pastPart": "sold",
+    "present": "sells",
+    "gerund": "selling"
+  },
+  "send": {
+    "infinitive": "send",
+    "past": "sent",
+    "pastPart": "sent",
+    "present": "sends",
+    "gerund": "sending"
+  },
+  "sentence": {
+    "infinitive": "sentence",
+    "past": "sentenced",
+    "pastPart": "sentenced",
+    "present": "sentences",
+    "gerund": "sentencing"
+  },
+  "separate": {
+    "infinitive": "separate",
+    "past": "separated",
+    "pastPart": "separated",
+    "present": "separates",
+    "gerund": "separating"
+  },
+  "set": {
+    "infinitive": "set",
+    "past": "set",
+    "pastPart": "set",
+    "present": "sets",
+    "gerund": "setting"
+  },
+  "sever": {
+    "infinitive": "sever",
+    "past": "severed",
+    "pastPart": "severed",
+    "present": "severs",
+    "gerund": "severing"
+  },
+  "sew": {
+    "infinitive": "sew",
+    "past": "sewed",
+    "pastPart": "sewn",
+    "present": "sews",
+    "gerund": "sewing"
+  },
+  "shake": {
+    "infinitive": "shake",
+    "past": "shook",
+    "pastPart": "shaken",
+    "present": "shakes",
+    "gerund": "shaking"
+  },
+  "shape": {
+    "infinitive": "shape",
+    "past": "shaped",
+    "pastPart": "shaped",
+    "present": "shapes",
+    "gerund": "shaping"
+  },
+  "share": {
+    "infinitive": "share",
+    "past": "shared",
+    "pastPart": "shared",
+    "present": "shares",
+    "gerund": "sharing"
+  },
+  "shatter": {
+    "infinitive": "shatter",
+    "past": "shattered",
+    "pastPart": "shattered",
+    "present": "shatters",
+    "gerund": "shattering"
+  },
+  "shave": {
+    "infinitive": "shave",
+    "past": "shove",
+    "pastPart": "shaven",
+    "present": "shaves",
+    "gerund": "shaving"
+  },
+  "shear": {
+    "infinitive": "shear",
+    "past": "shore",
+    "pastPart": "shorn",
+    "present": "shears",
+    "gerund": "shearing"
+  },
+  "shed": {
+    "infinitive": "shed",
+    "past": "shed",
+    "pastPart": "shed",
+    "present": "sheds",
+    "gerund": "shedding"
+  },
+  "shine": {
+    "infinitive": "shine",
+    "past": "shone",
+    "pastPart": "shone",
+    "present": "shines",
+    "gerund": "shining"
+  },
+  "shirk": {
+    "infinitive": "shirk",
+    "past": "shirked",
+    "pastPart": "shirked",
+    "present": "shirks",
+    "gerund": "shirking"
+  },
+  "shit": {
+    "infinitive": "shit",
+    "past": "shit",
+    "pastPart": "shit",
+    "present": "shits",
+    "gerund": "shitting"
+  },
+  "shiver": {
+    "infinitive": "shiver",
+    "past": "shivered",
+    "pastPart": "shivered",
+    "present": "shivers",
+    "gerund": "shivering"
+  },
+  "shock": {
+    "infinitive": "shock",
+    "past": "shocked",
+    "pastPart": "shocked",
+    "present": "shocks",
+    "gerund": "shocking"
+  },
+  "shoe": {
+    "infinitive": "shoe",
+    "past": "shod",
+    "pastPart": "shod",
+    "present": "shoes",
+    "gerund": "shoeing"
+  },
+  "shoot": {
+    "infinitive": "shoot",
+    "past": "shot",
+    "pastPart": "shot",
+    "present": "shoots",
+    "gerund": "shooting"
+  },
+  "shorten": {
+    "infinitive": "shorten",
+    "past": "shortened",
+    "pastPart": "shortened",
+    "present": "shortens",
+    "gerund": "shortening"
+  },
+  "shout": {
+    "infinitive": "shout",
+    "past": "shouted",
+    "pastPart": "shouted",
+    "present": "shouts",
+    "gerund": "shouting"
+  },
+  "show": {
+    "infinitive": "show",
+    "past": "showed",
+    "pastPart": "shown",
+    "present": "shows",
+    "gerund": "showing"
+  },
+  "shrink": {
+    "infinitive": "shrink",
+    "past": "shrank",
+    "pastPart": "shrunk",
+    "present": "shrinks",
+    "gerund": "shrinking"
+  },
+  "shun": {
+    "infinitive": "shun",
+    "past": "shunned",
+    "pastPart": "shunned",
+    "present": "shuns",
+    "gerund": "shunning"
+  },
+  "shut": {
+    "infinitive": "shut",
+    "past": "shut",
+    "pastPart": "shut",
+    "present": "shuts",
+    "gerund": "shutting"
+  },
+  "sight": {
+    "infinitive": "sight",
+    "past": "sighted",
+    "pastPart": "sighted",
+    "present": "sights",
+    "gerund": "sighting"
+  },
+  "signal": {
+    "infinitive": "signal",
+    "past": "signalled",
+    "pastPart": "signalled",
+    "present": "signals",
+    "gerund": "signalling"
+  },
+  "signify": {
+    "infinitive": "signify",
+    "past": "signified",
+    "pastPart": "signified",
+    "present": "signifies",
+    "gerund": "signifying"
+  },
+  "sing": {
+    "infinitive": "sing",
+    "past": "sang",
+    "pastPart": "sung",
+    "present": "sings",
+    "gerund": "singing"
+  },
+  "sink": {
+    "infinitive": "sink",
+    "past": "sank",
+    "pastPart": "sunk",
+    "present": "sinks",
+    "gerund": "sinking"
+  },
+  "sip": {
+    "infinitive": "sip",
+    "past": "sipped",
+    "pastPart": "sipped",
+    "present": "sips",
+    "gerund": "sipping"
+  },
+  "sit": {
+    "infinitive": "sit",
+    "past": "sat",
+    "pastPart": "sat",
+    "present": "sits",
+    "gerund": "sitting"
+  },
+  "ski": {
+    "infinitive": "ski",
+    "past": "skied",
+    "pastPart": "skied",
+    "present": "skis",
+    "gerund": "skiing"
+  },
+  "skid": {
+    "infinitive": "skid",
+    "past": "skidded",
+    "pastPart": "skidded",
+    "present": "skids",
+    "gerund": "skidding"
+  },
+  "slam": {
+    "infinitive": "slam",
+    "past": "slammed",
+    "pastPart": "slammed",
+    "present": "slams",
+    "gerund": "slamming"
+  },
+  "slay": {
+    "infinitive": "slay",
+    "past": "slew",
+    "pastPart": "slain",
+    "present": "slays",
+    "gerund": "slaying"
+  },
+  "sleep": {
+    "infinitive": "sleep",
+    "past": "slept",
+    "pastPart": "slept",
+    "present": "sleeps",
+    "gerund": "sleeping"
+  },
+  "slide": {
+    "infinitive": "slide",
+    "past": "slid",
+    "pastPart": "slid/slide",
+    "present": "slides",
+    "gerund": "sliding"
+  },
+  "slim": {
+    "infinitive": "slim",
+    "past": "slimmed",
+    "pastPart": "slimmed",
+    "present": "slims",
+    "gerund": "slimming"
+  },
+  "sling": {
+    "infinitive": "sling",
+    "past": "slung",
+    "pastPart": "slung",
+    "present": "slings",
+    "gerund": "slinging"
+  },
+  "slink": {
+    "infinitive": "slink",
+    "past": "slunk",
+    "pastPart": "slunk",
+    "present": "slinks",
+    "gerund": "slinking"
+  },
+  "slip": {
+    "infinitive": "slip",
+    "past": "slipped",
+    "pastPart": "slipped",
+    "present": "slips",
+    "gerund": "slipping"
+  },
+  "slit": {
+    "infinitive": "slit",
+    "past": "slit",
+    "pastPart": "slit",
+    "present": "slits",
+    "gerund": "slitting"
+  },
+  "smash": {
+    "infinitive": "smash",
+    "past": "smashed",
+    "pastPart": "smashed",
+    "present": "smashes",
+    "gerund": "smashing"
+  },
+  "smell": {
+    "infinitive": "smell",
+    "past": "smelt",
+    "pastPart": "smelt",
+    "present": "smells",
+    "gerund": "smelling"
+  },
+  "smile": {
+    "infinitive": "smile",
+    "past": "smiled",
+    "pastPart": "smiled",
+    "present": "smiles",
+    "gerund": "smiling"
+  },
+  "smite": {
+    "infinitive": "smite",
+    "past": "smote",
+    "pastPart": "smitten",
+    "present": "smites",
+    "gerund": "smiting"
+  },
+  "smooth": {
+    "infinitive": "smooth",
+    "past": "smoothed",
+    "pastPart": "smoothed",
+    "present": "smoothes",
+    "gerund": "smoothing"
+  },
+  "smother": {
+    "infinitive": "smother",
+    "past": "smothered",
+    "pastPart": "smothered",
+    "present": "smothers",
+    "gerund": "smothering"
+  },
+  "snap": {
+    "infinitive": "snap",
+    "past": "snapped",
+    "pastPart": "snapped",
+    "present": "snaps",
+    "gerund": "snapping"
+  },
+  "snatch": {
+    "infinitive": "snatch",
+    "past": "snatched",
+    "pastPart": "snatched",
+    "present": "snatches",
+    "gerund": "snatching"
+  },
+  "sneak": {
+    "infinitive": "sneak",
+    "past": "sneaked",
+    "pastPart": "sneaked",
+    "present": "sneaks",
+    "gerund": "sneaking"
+  },
+  "sneeze": {
+    "infinitive": "sneeze",
+    "past": "sneezed",
+    "pastPart": "sneezed",
+    "present": "sneezes",
+    "gerund": "sneezing"
+  },
+  "sniff": {
+    "infinitive": "sniff",
+    "past": "sniffed",
+    "pastPart": "sniffed",
+    "present": "sniffs",
+    "gerund": "sniffing"
+  },
+  "soar": {
+    "infinitive": "soar",
+    "past": "soared",
+    "pastPart": "soared",
+    "present": "soars",
+    "gerund": "soaring"
+  },
+  "sob": {
+    "infinitive": "sob",
+    "past": "sobbed",
+    "pastPart": "sobbed",
+    "present": "sobs",
+    "gerund": "sobbing"
+  },
+  "solicit": {
+    "infinitive": "solicit",
+    "past": "solicited",
+    "pastPart": "solicited",
+    "present": "solicits",
+    "gerund": "soliciting"
+  },
+  "solve": {
+    "infinitive": "solve",
+    "past": "solved",
+    "pastPart": "solved",
+    "present": "solves",
+    "gerund": "solving"
+  },
+  "soothe": {
+    "infinitive": "soothe",
+    "past": "soothed",
+    "pastPart": "soothed",
+    "present": "soothes",
+    "gerund": "soothing"
+  },
+  "sort": {
+    "infinitive": "sort",
+    "past": "sorted",
+    "pastPart": "sorted",
+    "present": "sorts",
+    "gerund": "sorting"
+  },
+  "sow": {
+    "infinitive": "sow",
+    "past": "sowed",
+    "pastPart": "sowed",
+    "present": "sows",
+    "gerund": "sowing"
+  },
+  "sparkle": {
+    "infinitive": "sparkle",
+    "past": "sparkled",
+    "pastPart": "sparkled",
+    "present": "sparkles",
+    "gerund": "sparkling"
+  },
+  "speak": {
+    "infinitive": "speak",
+    "past": "spoke",
+    "pastPart": "spoken",
+    "present": "speaks",
+    "gerund": "speaking"
+  },
+  "speed": {
+    "infinitive": "speed",
+    "past": "sped",
+    "pastPart": "sped",
+    "present": "speeds",
+    "gerund": "speeding"
+  },
+  "spell": {
+    "infinitive": "spell",
+    "past": "spelt",
+    "pastPart": "spelt",
+    "present": "spells",
+    "gerund": "spelling"
+  },
+  "spend": {
+    "infinitive": "spend",
+    "past": "spent",
+    "pastPart": "spent",
+    "present": "spends",
+    "gerund": "spending"
+  },
+  "spill": {
+    "infinitive": "spill",
+    "past": "spilt",
+    "pastPart": "spilt",
+    "present": "spills",
+    "gerund": "spilling"
+  },
+  "spin": {
+    "infinitive": "spin",
+    "past": "span/spun",
+    "pastPart": "spun",
+    "present": "spins",
+    "gerund": "spinning"
+  },
+  "spit": {
+    "infinitive": "spit",
+    "past": "spat/spit",
+    "pastPart": "spat/spit",
+    "present": "spits",
+    "gerund": "spitting"
+  },
+  "split": {
+    "infinitive": "split",
+    "past": "split",
+    "pastPart": "split",
+    "present": "splits",
+    "gerund": "splitting"
+  },
+  "spoil": {
+    "infinitive": "spoil",
+    "past": "spoilt",
+    "pastPart": "spoilt",
+    "present": "spoils",
+    "gerund": "spoiling"
+  },
+  "spray": {
+    "infinitive": "spray",
+    "past": "sprayed",
+    "pastPart": "sprayed",
+    "present": "sprays",
+    "gerund": "spraying"
+  },
+  "spread": {
+    "infinitive": "spread",
+    "past": "spread",
+    "pastPart": "spread",
+    "present": "spreads",
+    "gerund": "spreading"
+  },
+  "spring": {
+    "infinitive": "spring",
+    "past": "sprang",
+    "pastPart": "sprung",
+    "present": "springs",
+    "gerund": "springing"
+  },
+  "sprout": {
+    "infinitive": "sprout",
+    "past": "sprouted",
+    "pastPart": "sprouted",
+    "present": "sprouts",
+    "gerund": "sprouting"
+  },
+  "squeeze": {
+    "infinitive": "squeeze",
+    "past": "squeezed",
+    "pastPart": "squeezed",
+    "present": "squeezes",
+    "gerund": "squeezing"
+  },
+  "stand": {
+    "infinitive": "stand",
+    "past": "stood",
+    "pastPart": "stood",
+    "present": "stands",
+    "gerund": "standing"
+  },
+  "stare": {
+    "infinitive": "stare",
+    "past": "stared",
+    "pastPart": "stared",
+    "present": "stares",
+    "gerund": "staring"
+  },
+  "start": {
+    "infinitive": "start",
+    "past": "started",
+    "pastPart": "started",
+    "present": "starts",
+    "gerund": "starting"
+  },
+  "state": {
+    "infinitive": "state",
+    "past": "stated",
+    "pastPart": "stated",
+    "present": "states",
+    "gerund": "stating"
+  },
+  "": {
+    "infinitive": "",
+    "past": "",
+    "pastPart": "",
+    "present": "",
+    "gerund": ""
+  },
+  "stay": {
+    "infinitive": "stay",
+    "past": "stayed",
+    "pastPart": "stayed",
+    "present": "stays",
+    "gerund": "staying"
+  },
+  "steal": {
+    "infinitive": "steal",
+    "past": "stole",
+    "pastPart": "stolen",
+    "present": "steals",
+    "gerund": "stealing"
+  },
+  "steep": {
+    "infinitive": "steep",
+    "past": "steeped",
+    "pastPart": "steeped",
+    "present": "steeps",
+    "gerund": "steeping"
+  },
+  "stem": {
+    "infinitive": "stem",
+    "past": "stemmed",
+    "pastPart": "stemmed",
+    "present": "stems",
+    "gerund": "stemming"
+  },
+  "step": {
+    "infinitive": "step",
+    "past": "stepped",
+    "pastPart": "stepped",
+    "present": "steps",
+    "gerund": "stepping"
+  },
+  "sterilize": {
+    "infinitive": "sterilize",
+    "past": "sterilized",
+    "pastPart": "sterilized",
+    "present": "sterilizes",
+    "gerund": "sterilizing"
+  },
+  "stick": {
+    "infinitive": "stick",
+    "past": "stuck",
+    "pastPart": "stuck",
+    "present": "sticks",
+    "gerund": "sticking"
+  },
+  "stimulate": {
+    "infinitive": "stimulate",
+    "past": "stimulated",
+    "pastPart": "stimulated",
+    "present": "stimulates",
+    "gerund": "stimulating"
+  },
+  "sting": {
+    "infinitive": "sting",
+    "past": "stung",
+    "pastPart": "stung",
+    "present": "stings",
+    "gerund": "stinging"
+  },
+  "stink": {
+    "infinitive": "stink",
+    "past": "stank",
+    "pastPart": "stunk",
+    "present": "stinks",
+    "gerund": "stinking"
+  },
+  "stir": {
+    "infinitive": "stir",
+    "past": "stirred",
+    "pastPart": "stirred",
+    "present": "stirs",
+    "gerund": "stirring"
+  },
+  "stitch": {
+    "infinitive": "stitch",
+    "past": "stitched",
+    "pastPart": "stitched",
+    "present": "stitches",
+    "gerund": "stitching"
+  },
+  "stoop": {
+    "infinitive": "stoop",
+    "past": "stooped",
+    "pastPart": "stooped",
+    "present": "stoops",
+    "gerund": "stooping"
+  },
+  "stop": {
+    "infinitive": "stop",
+    "past": "stopped",
+    "pastPart": "stopped",
+    "present": "stops",
+    "gerund": "stopping"
+  },
+  "store": {
+    "infinitive": "store",
+    "past": "stored",
+    "pastPart": "stored",
+    "present": "stores",
+    "gerund": "storing"
+  },
+  "strain": {
+    "infinitive": "strain",
+    "past": "strained",
+    "pastPart": "strained",
+    "present": "strains",
+    "gerund": "straining"
+  },
+  "stray": {
+    "infinitive": "stray",
+    "past": "strayed",
+    "pastPart": "strayed",
+    "present": "strays",
+    "gerund": "straying"
+  },
+  "stress": {
+    "infinitive": "stress",
+    "past": "stressed",
+    "pastPart": "stressed",
+    "present": "stresses",
+    "gerund": "stressing"
+  },
+  "stretch": {
+    "infinitive": "stretch",
+    "past": "stretched",
+    "pastPart": "stretched",
+    "present": "stretches",
+    "gerund": "stretching"
+  },
+  "strew": {
+    "infinitive": "strew",
+    "past": "strewed",
+    "pastPart": "strewn",
+    "present": "strews",
+    "gerund": "strewing"
+  },
+  "stride": {
+    "infinitive": "stride",
+    "past": "strode",
+    "pastPart": "stridden",
+    "present": "strides",
+    "gerund": "striding"
+  },
+  "strike": {
+    "infinitive": "strike",
+    "past": "struck",
+    "pastPart": "struck/stricken",
+    "present": "strikes",
+    "gerund": "striking"
+  },
+  "string": {
+    "infinitive": "string",
+    "past": "strung",
+    "pastPart": "strung",
+    "present": "strings",
+    "gerund": "stringing"
+  },
+  "strive": {
+    "infinitive": "strive",
+    "past": "strove",
+    "pastPart": "striven",
+    "present": "strives",
+    "gerund": "striving"
+  },
+  "study": {
+    "infinitive": "study",
+    "past": "studied",
+    "pastPart": "studied",
+    "present": "studies",
+    "gerund": "studying"
+  },
+  "submit": {
+    "infinitive": "submit",
+    "past": "submitted",
+    "pastPart": "submitted",
+    "present": "submits",
+    "gerund": "submitting"
+  },
+  "subscribe": {
+    "infinitive": "subscribe",
+    "past": "subscribed",
+    "pastPart": "subscribed",
+    "present": "subscribes",
+    "gerund": "subscribing"
+  },
+  "subtract": {
+    "infinitive": "subtract",
+    "past": "subtracted",
+    "pastPart": "subtracted",
+    "present": "subtracts",
+    "gerund": "subtracting"
+  },
+  "succeed": {
+    "infinitive": "succeed",
+    "past": "succeeded",
+    "pastPart": "succeeded",
+    "present": "succeeds",
+    "gerund": "succeeding"
+  },
+  "suck": {
+    "infinitive": "suck",
+    "past": "sucked",
+    "pastPart": "sucked",
+    "present": "sucks",
+    "gerund": "sucking"
+  },
+  "suffer": {
+    "infinitive": "suffer",
+    "past": "suffered",
+    "pastPart": "suffered",
+    "present": "suffers",
+    "gerund": "suffering"
+  },
+  "suggest": {
+    "infinitive": "suggest",
+    "past": "suggested",
+    "pastPart": "suggested",
+    "present": "suggests",
+    "gerund": "suggesting"
+  },
+  "summon": {
+    "infinitive": "summon",
+    "past": "summoned",
+    "pastPart": "summoned",
+    "present": "summons",
+    "gerund": "summoning"
+  },
+  "supply": {
+    "infinitive": "supply",
+    "past": "supplied",
+    "pastPart": "supplied",
+    "present": "supplies",
+    "gerund": "supplying"
+  },
+  "support": {
+    "infinitive": "support",
+    "past": "supported",
+    "pastPart": "supported",
+    "present": "supports",
+    "gerund": "supporting"
+  },
+  "suppose": {
+    "infinitive": "suppose",
+    "past": "supposed",
+    "pastPart": "supposed",
+    "present": "supposes",
+    "gerund": "supposing"
+  },
+  "surge": {
+    "infinitive": "surge",
+    "past": "surged",
+    "pastPart": "surged",
+    "present": "surges",
+    "gerund": "surging"
+  },
+  "surmise": {
+    "infinitive": "surmise",
+    "past": "surmised",
+    "pastPart": "surmised",
+    "present": "surmises",
+    "gerund": "surmising"
+  },
+  "surpass": {
+    "infinitive": "surpass",
+    "past": "surpassed",
+    "pastPart": "surpassed",
+    "present": "surpasses",
+    "gerund": "surpassing"
+  },
+  "surround": {
+    "infinitive": "surround",
+    "past": "surrounded",
+    "pastPart": "surrounded",
+    "present": "surrounds",
+    "gerund": "surrounding"
+  },
+  "survey": {
+    "infinitive": "survey",
+    "past": "surveyed",
+    "pastPart": "surveyed",
+    "present": "surveys",
+    "gerund": "surveying"
+  },
+  "survive": {
+    "infinitive": "survive",
+    "past": "survived",
+    "pastPart": "survived",
+    "present": "survives",
+    "gerund": "surviving"
+  },
+  "swallow": {
+    "infinitive": "swallow",
+    "past": "swallowed",
+    "pastPart": "swallowed",
+    "present": "swallows",
+    "gerund": "swallowing"
+  },
+  "sway": {
+    "infinitive": "sway",
+    "past": "swayed",
+    "pastPart": "swayed",
+    "present": "sways",
+    "gerund": "swaying"
+  },
+  "swear": {
+    "infinitive": "swear",
+    "past": "swore",
+    "pastPart": "sworn",
+    "present": "swears",
+    "gerund": "swearing"
+  },
+  "sweat": {
+    "infinitive": "sweat",
+    "past": "sweat",
+    "pastPart": "sweat",
+    "present": "sweats",
+    "gerund": "sweating"
+  },
+  "sweep": {
+    "infinitive": "sweep",
+    "past": "swept",
+    "pastPart": "swept",
+    "present": "sweeps",
+    "gerund": "sweeping"
+  },
+  "swell": {
+    "infinitive": "swell",
+    "past": "swelled",
+    "pastPart": "swollen",
+    "present": "swells",
+    "gerund": "swelling"
+  },
+  "swim": {
+    "infinitive": "swim",
+    "past": "swam",
+    "pastPart": "swum",
+    "present": "swims",
+    "gerund": "swimming"
+  },
+  "swing": {
+    "infinitive": "swing",
+    "past": "swung",
+    "pastPart": "swung",
+    "present": "swings",
+    "gerund": "swinging"
+  },
+  "swot": {
+    "infinitive": "swot",
+    "past": "swotted",
+    "pastPart": "swotted",
+    "present": "swots",
+    "gerund": "swotting"
+  },
+  "take": {
+    "infinitive": "take",
+    "past": "took",
+    "pastPart": "taken",
+    "present": "takes",
+    "gerund": "taking"
+  },
+  "talk": {
+    "infinitive": "talk",
+    "past": "talked",
+    "pastPart": "talked",
+    "present": "talks",
+    "gerund": "talking"
+  },
+  "tap": {
+    "infinitive": "tap",
+    "past": "tapped",
+    "pastPart": "tapped",
+    "present": "taps",
+    "gerund": "tapping"
+  },
+  "taste": {
+    "infinitive": "taste",
+    "past": "tasted",
+    "pastPart": "tasted",
+    "present": "tastes",
+    "gerund": "tasting"
+  },
+  "tax": {
+    "infinitive": "tax",
+    "past": "taxed",
+    "pastPart": "taxed",
+    "present": "taxes",
+    "gerund": "taxing"
+  },
+  "teach": {
+    "infinitive": "teach",
+    "past": "taught",
+    "pastPart": "taught",
+    "present": "teaches",
+    "gerund": "teaching"
+  },
+  "tear": {
+    "infinitive": "tear",
+    "past": "tore",
+    "pastPart": "torn",
+    "present": "tears",
+    "gerund": "tearing"
+  },
+  "tee": {
+    "infinitive": "tee",
+    "past": "teed",
+    "pastPart": "teed",
+    "present": "tees",
+    "gerund": "teeing"
+  },
+  "tell": {
+    "infinitive": "tell",
+    "past": "told",
+    "pastPart": "told",
+    "present": "tells",
+    "gerund": "telling"
+  },
+  "tempt": {
+    "infinitive": "tempt",
+    "past": "tempted",
+    "pastPart": "tempted",
+    "present": "tempts",
+    "gerund": "tempting"
+  },
+  "tend": {
+    "infinitive": "tend",
+    "past": "tended",
+    "pastPart": "tended",
+    "present": "tends",
+    "gerund": "tending"
+  },
+  "terminate": {
+    "infinitive": "terminate",
+    "past": "terminated",
+    "pastPart": "terminated",
+    "present": "terminates",
+    "gerund": "terminating"
+  },
+  "terrify": {
+    "infinitive": "terrify",
+    "past": "terrified",
+    "pastPart": "terrified",
+    "present": "terrifies",
+    "gerund": "terrifying"
+  },
+  "test": {
+    "infinitive": "test",
+    "past": "tested",
+    "pastPart": "tested",
+    "present": "tests",
+    "gerund": "testing"
+  },
+  "thank": {
+    "infinitive": "thank",
+    "past": "thanked",
+    "pastPart": "thanked",
+    "present": "thanks",
+    "gerund": "thanking"
+  },
+  "think": {
+    "infinitive": "think",
+    "past": "thought",
+    "pastPart": "thought",
+    "present": "thinks",
+    "gerund": "thinking"
+  },
+  "thrive": {
+    "infinitive": "thrive",
+    "past": "throve",
+    "pastPart": "thriven",
+    "present": "thrives",
+    "gerund": "thriving"
+  },
+  "throw": {
+    "infinitive": "throw",
+    "past": "threw",
+    "pastPart": "thrown",
+    "present": "throws",
+    "gerund": "throwing"
+  },
+  "thrust": {
+    "infinitive": "thrust",
+    "past": "thrust",
+    "pastPart": "thrust",
+    "present": "thrusts",
+    "gerund": "thrusting"
+  },
+  "thump": {
+    "infinitive": "thump",
+    "past": "thumped",
+    "pastPart": "thumped",
+    "present": "thumps",
+    "gerund": "thumping"
+  },
+  "tie": {
+    "infinitive": "tie",
+    "past": "tied",
+    "pastPart": "tied",
+    "present": "ties",
+    "gerund": "tying"
+  },
+  "tire": {
+    "infinitive": "tire",
+    "past": "tired",
+    "pastPart": "tired",
+    "present": "tires",
+    "gerund": "tiring"
+  },
+  "toss": {
+    "infinitive": "toss",
+    "past": "tossed",
+    "pastPart": "tossed",
+    "present": "tosses",
+    "gerund": "tossing"
+  },
+  "touch": {
+    "infinitive": "touch",
+    "past": "touched",
+    "pastPart": "touched",
+    "present": "touches",
+    "gerund": "touching"
+  },
+  "train": {
+    "infinitive": "train",
+    "past": "trained",
+    "pastPart": "trained",
+    "present": "trains",
+    "gerund": "training"
+  },
+  "trample": {
+    "infinitive": "trample",
+    "past": "trampled",
+    "pastPart": "trampled",
+    "present": "tramples",
+    "gerund": "trampling"
+  },
+  "transfer": {
+    "infinitive": "transfer",
+    "past": "transferred",
+    "pastPart": "transferred",
+    "present": "transfers",
+    "gerund": "transferring"
+  },
+  "transform": {
+    "infinitive": "transform",
+    "past": "transformed",
+    "pastPart": "transformed",
+    "present": "transforms",
+    "gerund": "transforming"
+  },
+  "translate": {
+    "infinitive": "translate",
+    "past": "translated",
+    "pastPart": "translated",
+    "present": "translates",
+    "gerund": "translating"
+  },
+  "trap": {
+    "infinitive": "trap",
+    "past": "trapped",
+    "pastPart": "trapped",
+    "present": "traps",
+    "gerund": "trapping"
+  },
+  "travel": {
+    "infinitive": "travel",
+    "past": "travelled",
+    "pastPart": "travelled",
+    "present": "travels",
+    "gerund": "travelling"
+  },
+  "tread": {
+    "infinitive": "tread",
+    "past": "trod",
+    "pastPart": "trodden",
+    "present": "treads",
+    "gerund": "treading"
+  },
+  "treasure": {
+    "infinitive": "treasure",
+    "past": "treasured",
+    "pastPart": "treasured",
+    "present": "treasures",
+    "gerund": "treasuring"
+  },
+  "treat": {
+    "infinitive": "treat",
+    "past": "treated",
+    "pastPart": "treated",
+    "present": "treats",
+    "gerund": "treating"
+  },
+  "tree": {
+    "infinitive": "tree",
+    "past": "treed",
+    "pastPart": "treed",
+    "present": "trees",
+    "gerund": "treeing"
+  },
+  "tremble": {
+    "infinitive": "tremble",
+    "past": "trembled",
+    "pastPart": "trembled",
+    "present": "trembles",
+    "gerund": "trembling"
+  },
+  "triumph": {
+    "infinitive": "triumph",
+    "past": "triumphed",
+    "pastPart": "triumphed",
+    "present": "triumphs",
+    "gerund": "triumphing"
+  },
+  "trust": {
+    "infinitive": "trust",
+    "past": "trusted",
+    "pastPart": "trusted",
+    "present": "trusts",
+    "gerund": "trusting"
+  },
+  "try": {
+    "infinitive": "try",
+    "past": "tried",
+    "pastPart": "tried",
+    "present": "tries",
+    "gerund": "trying"
+  },
+  "turn": {
+    "infinitive": "turn",
+    "past": "turned",
+    "pastPart": "turned",
+    "present": "turns",
+    "gerund": "turning"
+  },
+  "type": {
+    "infinitive": "type",
+    "past": "typed",
+    "pastPart": "typed",
+    "present": "types",
+    "gerund": "typing"
+  },
+  "typeset": {
+    "infinitive": "typeset",
+    "past": "typeset",
+    "pastPart": "typeset",
+    "present": "typesets",
+    "gerund": "typesetting"
+  },
+  "understand": {
+    "infinitive": "understand",
+    "past": "understood",
+    "pastPart": "understood",
+    "present": "understands",
+    "gerund": "understanding"
+  },
+  "undo": {
+    "infinitive": "undo",
+    "past": "undid",
+    "pastPart": "undone",
+    "present": "undoes",
+    "gerund": "undoing"
+  },
+  "uproot": {
+    "infinitive": "uproot",
+    "past": "uprooted",
+    "pastPart": "uprooted",
+    "present": "uproots",
+    "gerund": "uprooting"
+  },
+  "upset": {
+    "infinitive": "upset",
+    "past": "upset",
+    "pastPart": "upset",
+    "present": "upsets",
+    "gerund": "upsetting"
+  },
+  "urge": {
+    "infinitive": "urge",
+    "past": "urged",
+    "pastPart": "urged",
+    "present": "urges",
+    "gerund": "urging"
+  },
+  "use": {
+    "infinitive": "use",
+    "past": "used",
+    "pastPart": "used",
+    "present": "uses",
+    "gerund": "using"
+  },
+  "utter": {
+    "infinitive": "utter",
+    "past": "uttered",
+    "pastPart": "uttered",
+    "present": "utters",
+    "gerund": "uttering"
+  },
+  "value": {
+    "infinitive": "value",
+    "past": "valued",
+    "pastPart": "valued",
+    "present": "values",
+    "gerund": "valuing"
+  },
+  "vanish": {
+    "infinitive": "vanish",
+    "past": "vanished",
+    "pastPart": "vanished",
+    "present": "vanishes",
+    "gerund": "vanishing"
+  },
+  "vary": {
+    "infinitive": "vary",
+    "past": "varied",
+    "pastPart": "varied",
+    "present": "varies",
+    "gerund": "varying"
+  },
+  "verify": {
+    "infinitive": "verify",
+    "past": "verified",
+    "pastPart": "verified",
+    "present": "verifies",
+    "gerund": "verifying"
+  },
+  "vex": {
+    "infinitive": "vex",
+    "past": "vexed",
+    "pastPart": "vexed",
+    "present": "vexes",
+    "gerund": "vexing"
+  },
+  "vie": {
+    "infinitive": "vie",
+    "past": "vied",
+    "pastPart": "vied",
+    "present": "vies",
+    "gerund": "vying"
+  },
+  "view": {
+    "infinitive": "view",
+    "past": "viewed",
+    "pastPart": "viewed",
+    "present": "views",
+    "gerund": "viewing"
+  },
+  "violate": {
+    "infinitive": "violate",
+    "past": "violated",
+    "pastPart": "violated",
+    "present": "violates",
+    "gerund": "violating"
+  },
+  "vomit": {
+    "infinitive": "vomit",
+    "past": "vomited",
+    "pastPart": "vomited",
+    "present": "vomits",
+    "gerund": "vomiting"
+  },
+  "wake": {
+    "infinitive": "wake",
+    "past": "woke",
+    "pastPart": "woken",
+    "present": "wakes",
+    "gerund": "waking"
+  },
+  "walk": {
+    "infinitive": "walk",
+    "past": "walked",
+    "pastPart": "walked",
+    "present": "walks",
+    "gerund": "walking"
+  },
+  "wander": {
+    "infinitive": "wander",
+    "past": "wandered",
+    "pastPart": "wandered",
+    "present": "wanders",
+    "gerund": "wandering"
+  },
+  "want": {
+    "infinitive": "want",
+    "past": "wanted",
+    "pastPart": "wanted",
+    "present": "wants",
+    "gerund": "wanting"
+  },
+  "warn": {
+    "infinitive": "warn",
+    "past": "warned",
+    "pastPart": "warned",
+    "present": "warns",
+    "gerund": "warning"
+  },
+  "waste": {
+    "infinitive": "waste",
+    "past": "wasted",
+    "pastPart": "wasted",
+    "present": "wastes",
+    "gerund": "wasting"
+  },
+  "watch": {
+    "infinitive": "watch",
+    "past": "watched",
+    "pastPart": "watched",
+    "present": "watches",
+    "gerund": "watching"
+  },
+  "water": {
+    "infinitive": "water",
+    "past": "watered",
+    "pastPart": "watered",
+    "present": "waters",
+    "gerund": "watering"
+  },
+  "wave": {
+    "infinitive": "wave",
+    "past": "waved",
+    "pastPart": "waved",
+    "present": "waves",
+    "gerund": "waving"
+  },
+  "wax": {
+    "infinitive": "wax",
+    "past": "waxed",
+    "pastPart": "waxed",
+    "present": "waxes",
+    "gerund": "waxing"
+  },
+  "waylay": {
+    "infinitive": "waylay",
+    "past": "waylaid",
+    "pastPart": "waylaid",
+    "present": "waylays",
+    "gerund": "waylaying"
+  },
+  "wear": {
+    "infinitive": "wear",
+    "past": "wore",
+    "pastPart": "worn",
+    "present": "wears",
+    "gerund": "wearing"
+  },
+  "weave": {
+    "infinitive": "weave",
+    "past": "wove",
+    "pastPart": "woven",
+    "present": "weaves",
+    "gerund": "weaving"
+  },
+  "wed": {
+    "infinitive": "wed",
+    "past": "wed",
+    "pastPart": "wed",
+    "present": "weds",
+    "gerund": "wedding"
+  },
+  "weep": {
+    "infinitive": "weep",
+    "past": "wept",
+    "pastPart": "wept",
+    "present": "weeps",
+    "gerund": "weeping"
+  },
+  "weigh": {
+    "infinitive": "weigh",
+    "past": "weighed",
+    "pastPart": "weighed",
+    "present": "weighs",
+    "gerund": "weighing"
+  },
+  "welcome": {
+    "infinitive": "welcome",
+    "past": "welcomed",
+    "pastPart": "welcomed",
+    "present": "welcomes",
+    "gerund": "welcoming"
+  },
+  "wend": {
+    "infinitive": "wend",
+    "past": "went",
+    "pastPart": "went",
+    "present": "wends",
+    "gerund": "wending"
+  },
+  "wet": {
+    "infinitive": "wet",
+    "past": "wet",
+    "pastPart": "wet",
+    "present": "wets",
+    "gerund": "wetting"
+  },
+  "whip": {
+    "infinitive": "whip",
+    "past": "whipped",
+    "pastPart": "whipped",
+    "present": "whips",
+    "gerund": "whipping"
+  },
+  "whisper": {
+    "infinitive": "whisper",
+    "past": "whispered",
+    "pastPart": "whispered",
+    "present": "whispers",
+    "gerund": "whispering"
+  },
+  "win": {
+    "infinitive": "win",
+    "past": "won",
+    "pastPart": "won",
+    "present": "wins",
+    "gerund": "winning"
+  },
+  "wind": {
+    "infinitive": "wind",
+    "past": "wound",
+    "pastPart": "wound",
+    "present": "winds",
+    "gerund": "winding"
+  },
+  "wish": {
+    "infinitive": "wish",
+    "past": "wished",
+    "pastPart": "wished",
+    "present": "wishes",
+    "gerund": "wishing"
+  },
+  "withdraw": {
+    "infinitive": "withdraw",
+    "past": "withdrew",
+    "pastPart": "withdrawn",
+    "present": "withdraws",
+    "gerund": "withdrawing"
+  },
+  "work": {
+    "infinitive": "work",
+    "past": "worked",
+    "pastPart": "worked",
+    "present": "works",
+    "gerund": "working"
+  },
+  "worry": {
+    "infinitive": "worry",
+    "past": "worried",
+    "pastPart": "worried",
+    "present": "worries",
+    "gerund": "worrying"
+  },
+  "worship": {
+    "infinitive": "worship",
+    "past": "worshipped",
+    "pastPart": "worshipped",
+    "present": "worships",
+    "gerund": "worshipping"
+  },
+  "wring": {
+    "infinitive": "wring",
+    "past": "wrung",
+    "pastPart": "wrung",
+    "present": "wrings",
+    "gerund": "wringing"
+  },
+  "write": {
+    "infinitive": "write",
+    "past": "wrote",
+    "pastPart": "written",
+    "present": "writes",
+    "gerund": "writing"
+  },
+  "yawn": {
+    "infinitive": "yawn",
+    "past": "yawned",
+    "pastPart": "yawned",
+    "present": "yawns",
+    "gerund": "yawning"
+  },
+  "yell": {
+    "infinitive": "yell",
+    "past": "yelled",
+    "pastPart": "yelled",
+    "present": "yells",
+    "gerund": "yelling"
+  },
+  "yield": {
+    "infinitive": "yield",
+    "past": "yielded",
+    "pastPart": "yielded",
+    "present": "yields",
+    "gerund": "yielding"
+  },
+  "zinc": {
+    "infinitive": "zinc",
+    "past": "zincked",
+    "pastPart": "zincked",
+    "present": "zincs",
+    "gerund": "zincking"
+  },
+  "zoom": {
+    "infinitive": "zoom",
+    "past": "zoomed",
+    "pastPart": "zoomed",
+    "present": "zooms",
+    "gerund": "zooming"
+  }
+}
